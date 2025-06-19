@@ -1,0 +1,1294 @@
+part,prov,short_status,long_status,n_depletions,n_shipments,depletions_baseline,shipments_baseline,calc_baseline,log,partprov
+101109,AB,Active,Active - mature - permanent,52,102,133,138,133,,101109AB
+101109,MB,Active,Active - mature - permanent,0,101,na,64,64,,101109MB
+101109,NL,Active,Active - mature - permanent,52,102,130,77,77,,101109NL
+101109,SK,X,X - historical,0,102,na,13,na,,101109SK
+101119,MB,Active,Active - mature - permanent,0,102,na,38,38,,101119MB
+101119,NL,Active,Active - mature - exiting,52,102,60,80,80,,101119NL
+101119,NS,Active,Active - mature - exiting,52,100,151,135,151,,101119NS
+101119,ON,Active,Active - mature - exiting,52,102,510,629,510,,101119ON
+101119,PE,Active,Active - mature - exiting,52,102,22,4,4,,101119PE
+101119,SK,X,X - historical,0,102,na,4,na,,101119SK
+101137,MB,X,X - historical,0,102,na,0,na,,101137MB
+101155,MB,Active,Active - mature - permanent,0,102,na,72,72,,101155MB
+101155,NL,Active,Active - mature - permanent,52,102,100,92,92,,101155NL
+101155,PE,Active,Active - mature - permanent,52,102,27,4,4,,101155PE
+101155,SK,X,X - historical,0,102,na,0,na,,101155SK
+101168,AB,X,X - historical,52,102,0,0,na,,101168AB
+101168,MB,Active,Active - mature - permanent,0,102,na,71,71,,101168MB
+101168,NB,Active,Active - mature - exiting,52,82,56,71,30.0,,101168NB
+101168,NL,Active,Active - mature - exiting,52,102,98,49,49,,101168NL
+101168,ON,Active,Active - mature - exiting,49,102,659,729,659,,101168ON
+101168,QC,Active,Active - mature - exiting,52,94,92,56,92,,101168QC
+101168,SK,X,X - historical,0,102,na,1,na,,101168SK
+101170,QC,Active,Active - mature - exiting,52,101,518,512,518,,101170QC
+101272,MB,X,X - historical,0,100,na,0,na,,101272MB
+101272,ON,X,X - historical,0,91,na,27,na,,101272ON
+101273,MB,Active,Active - mature - permanent,0,102,na,31,31,,101273MB
+101273,NL,Active,Active - mature - exiting,0,102,na,19,19,,101273NL
+101273,ON,Active,Active - mature - permanent,0,101,na,29,na,[ERROR]: Unable to fc; check baseline.,101273ON
+101273,SK,X,X - historical,0,101,na,0,na,,101273SK
+101274,MB,X,X - historical,0,101,na,1,na,,101274MB
+101274,NL,X,X - historical,52,102,0,0,na,,101274NL
+101274,NS,X,X - historical,52,102,11,0,na,,101274NS
+101274,ON,X,X - historical,52,102,0,78,na,,101274ON
+101274,SK,X,X - historical,0,100,na,0,na,,101274SK
+101275,MB,X,X - historical,0,101,na,0,na,,101275MB
+101275,ON,X,X - historical,0,94,na,21,na,,101275ON
+101275,QC,X,X - historical,0,101,na,0,na,,101275QC
+101276,MB,Active,Active - mature - permanent,0,102,na,53,53,,101276MB
+101276,NL,Active,Active - mature - exiting,52,102,54,11,11,,101276NL
+101276,ON,Active,Active - mature - permanent,52,100,33,45,33,,101276ON
+101276,SK,X,X - historical,0,101,na,0,na,,101276SK
+101277,MB,X,X - historical,0,102,na,1,na,,101277MB
+101277,NL,X,X - historical,52,102,0,0,na,,101277NL
+101277,NS,X,X - historical,52,102,10,0,na,,101277NS
+101277,ON,X,X - historical,50,102,0,34,na,,101277ON
+101277,SK,X,X - historical,0,101,na,0,na,,101277SK
+101300,MB,X,X - historical,0,102,na,0,na,,101300MB
+101300,QC,Active,Active - mature - exiting,52,101,561,566,561,,101300QC
+101304,AB,Active,Active - mature - exiting,52,98,247,218,247,,101304AB
+101304,MB,Active,Active - mature - permanent,0,101,na,30,30,,101304MB
+101304,NB,Active,Active - mature - exiting,52,84,32,13,30.0,,101304NB
+101304,NL,Active,Active - mature - exiting,52,102,41,61,61,,101304NL
+101304,ON,Active,Active - mature - exiting,52,101,100,87,100,,101304ON
+101304,PE,Active,Active - mature - exiting,52,102,12,2,2,,101304PE
+101304,SK,X,X - historical,0,102,na,1,na,,101304SK
+101309,QC,Active,Active - mature - exiting,52,101,457,396,457,,101309QC
+101312,AB,Active,Active - mature - permanent,36,102,433,632,433,,101312AB
+101312,BC,Active,Active - mature - permanent,24,101,465,643,465,,101312BC
+101312,MB,Active,Active - mature - permanent,0,102,na,249,249,,101312MB
+101312,ON,Active,Active - mature - permanent,52,102,452,553,452,,101312ON
+101312,SK,X,X - historical,0,101,na,22,na,,101312SK
+101313,AB,Active,Active - mature - permanent,37,102,343,997,343,,101313AB
+101313,BC,Active,Active - mature - permanent,11,102,287,644,287,,101313BC
+101313,MB,Active,Active - mature - permanent,0,102,na,350,350,,101313MB
+101313,ON,Active,Active - mature - permanent,52,101,516,553,516,,101313ON
+101313,SK,X,X - historical,0,102,na,36,na,,101313SK
+101314,MB,X,X - historical,0,102,na,0,na,,101314MB
+101314,ON,X,X - historical,52,102,0,0,na,,101314ON
+101314,SK,X,X - historical,0,96,na,0,na,,101314SK
+101335,AB,X,X - historical,52,81,0,0,na,,101335AB
+101335,MB,X,X - historical,0,102,na,0,na,,101335MB
+101335,NS,X,X - historical,52,102,0,0,na,,101335NS
+101335,ON,X,X - historical,52,102,0,0,na,,101335ON
+101335,SK,X,X - historical,0,102,na,0,na,,101335SK
+101407,MB,X,X - historical,0,102,na,0,na,,101407MB
+101407,NL,X,X - historical,52,102,0,0,na,,101407NL
+101407,ON,X,X - historical,52,99,1,0,na,,101407ON
+101407,SK,X,X - historical,0,100,na,0,na,,101407SK
+101410,AB,Active,Active - mature - permanent,52,102,2,1556,2,,101410AB
+101410,MB,Active,Active - mature - permanent,0,102,na,0,0,,101410MB
+101410,NL,Active,Active - mature - exiting,52,102,1,0,0,,101410NL
+101410,NS,Active,Active - mature - permanent,52,102,0,2,0,,101410NS
+101410,ON,Active,Active - mature - permanent,52,102,39,24,39,,101410ON
+101410,PE,X,X - historical,51,100,0,0,na,,101410PE
+101410,SK,Active,Active - mature - permanent,0,102,na,6,6,,101410SK
+101411,AB,Active,Active - mature - permanent,52,102,1,1953,1,,101411AB
+101411,MB,X,X - historical,0,102,na,0,na,,101411MB
+101411,NL,Active,Active - mature - exiting,52,102,0,0,0,,101411NL
+101411,NS,Active,Active - mature - permanent,0,102,na,2,na,[ERROR]: Unable to fc; check baseline.,101411NS
+101411,ON,Active,Active - mature - permanent,52,93,0,20,0,,101411ON
+101411,PE,X,X - historical,50,102,0,0,na,,101411PE
+101411,QC,X,X - historical,0,101,na,0,na,,101411QC
+101411,SK,X,X - historical,0,102,na,2,na,,101411SK
+101440,MB,X,X - historical,0,66,na,0,na,,101440MB
+101454,AB,X,X - historical,48,78,0,0,na,,101454AB
+101454,MB,X,X - historical,0,92,na,0,na,,101454MB
+101454,ON,X,X - historical,47,78,0,0,na,,101454ON
+101454,SK,X,X - historical,0,74,na,0,na,,101454SK
+101525,BC,X,X - historical,52,84,1,3,na,,101525BC
+101527,SK,X,X - historical,0,99,na,0,na,,101527SK
+101546,QC,Active,Active - mature - exiting,17,101,6,1801,6,,101546QC
+101555,AB,X,X - historical,47,88,37,6,na,,101555AB
+101555,MB,X,X - historical,0,102,na,13,na,,101555MB
+101555,NL,X,X - historical,52,102,0,0,na,,101555NL
+101555,ON,X,X - historical,52,102,15,13,na,,101555ON
+101555,SK,X,X - historical,0,102,na,4,na,,101555SK
+101572,MB,X,X - historical,0,67,na,0,na,,101572MB
+101572,SK,X,X - historical,0,72,na,0,na,,101572SK
+101573,MB,X,X - historical,0,102,na,0,na,,101573MB
+101573,NS,X,X - historical,52,82,0,0,na,,101573NS
+101573,ON,X,X - historical,0,81,na,0,na,,101573ON
+101573,SK,X,X - historical,0,102,na,0,na,,101573SK
+101584,SK,X,X - historical,0,102,na,0,na,,101584SK
+101589,AB,X,X - historical,52,86,5,1,na,,101589AB
+101589,MB,X,X - historical,0,102,na,2,na,,101589MB
+101589,NL,X,X - historical,52,102,5,0,na,,101589NL
+101589,ON,X,X - historical,52,102,2,2,na,,101589ON
+101589,SK,X,X - historical,0,101,na,0,na,,101589SK
+101590,AB,Active,Active - mature - permanent,52,100,107,129,107,,101590AB
+101590,MB,Active,Active - mature - permanent,0,102,na,35,35,,101590MB
+101590,NB,Active,Active - mature - permanent,52,94,66,15,70.0,,101590NB
+101590,NL,Active,Active - mature - permanent,52,102,66,42,42,,101590NL
+101590,NS,Active,Active - mature - permanent,52,102,112,134,112,,101590NS
+101590,ON,Active,Active - mature - permanent,52,102,42,11,42,,101590ON
+101590,PE,Active,Active - mature - permanent,52,102,20,11,11,,101590PE
+101590,SK,X,X - historical,0,101,na,0,na,,101590SK
+101591,AB,Active,Active - mature - permanent,52,102,145,184,145,,101591AB
+101591,MB,Active,Active - mature - permanent,0,102,na,55,55,,101591MB
+101591,NB,Active,Active - mature - permanent,52,84,51,15,60.0,,101591NB
+101591,NL,Active,Active - mature - permanent,52,102,41,30,30,,101591NL
+101591,NS,Active,Active - mature - permanent,52,102,119,78,119,,101591NS
+101591,ON,Active,Active - mature - permanent,52,102,68,77,68,,101591ON
+101591,PE,Active,Active - mature - permanent,52,100,24,9,9,,101591PE
+101591,SK,X,X - historical,0,100,na,0,na,,101591SK
+101606,AB,X,X - historical,52,80,0,0,na,,101606AB
+101606,MB,X,X - historical,0,79,na,0,na,,101606MB
+101606,NS,X,X - historical,52,78,0,0,na,,101606NS
+101606,ON,X,X - historical,46,102,0,0,na,,101606ON
+101606,PE,X,X - historical,0,76,na,0,na,,101606PE
+101606,SK,X,X - historical,0,79,na,0,na,,101606SK
+101607,AB,X,X - historical,52,79,0,0,na,,101607AB
+101607,MB,X,X - historical,0,79,na,0,na,,101607MB
+101607,ON,X,X - historical,0,79,na,0,na,,101607ON
+101607,SK,X,X - historical,0,101,na,0,na,,101607SK
+101608,AB,X,X - historical,52,80,0,0,na,,101608AB
+101608,MB,X,X - historical,0,81,na,0,na,,101608MB
+101608,ON,X,X - historical,52,80,0,0,na,,101608ON
+101608,SK,X,X - historical,0,101,na,0,na,,101608SK
+101694,MB,X,X - historical,0,101,na,0,na,,101694MB
+101694,ON,X,X - historical,0,100,na,22,na,,101694ON
+101694,QC,X,X - historical,0,101,na,0,na,,101694QC
+101695,MB,X,X - historical,0,101,na,0,na,,101695MB
+101700,QC,X,X - historical,0,99,na,0,na,,101700QC
+101702,ON,X,X - historical,0,100,na,29,na,,101702ON
+101703,BC,X,X - historical,52,102,0,0,na,,101703BC
+101703,MB,X,X - historical,0,101,na,0,na,,101703MB
+101703,ON,X,X - historical,52,97,0,0,na,,101703ON
+101703,SK,X,X - historical,0,94,na,0,na,,101703SK
+101704,MB,X,X - historical,0,101,na,0,na,,101704MB
+101706,QC,X,X - historical,52,101,0,0,na,,101706QC
+101706,SK,X,X - historical,0,45,na,0,na,,101706SK
+101708,AB,X,X - historical,52,98,0,0,na,,101708AB
+101708,MB,X,X - historical,0,102,na,0,na,,101708MB
+101708,NL,X,X - historical,52,97,0,0,na,,101708NL
+101708,PE,X,X - historical,52,100,0,0,na,,101708PE
+101708,SK,X,X - historical,0,102,na,0,na,,101708SK
+101711,AB,X,X - historical,52,102,0,0,na,,101711AB
+101711,BC,X,X - historical,52,101,0,0,na,,101711BC
+101711,MB,Active,Active - mature - permanent,0,101,na,65,65,,101711MB
+101711,NL,Active,Active - mature - exiting,52,102,23,206,206,,101711NL
+101711,NS,Active,Active - mature - exiting,52,102,267,211,267,,101711NS
+101711,ON,Active,Active - mature - exiting,52,101,1,1405,1,,101711ON
+101711,PE,X,X - historical,0,96,na,0,na,,101711PE
+101711,SK,X,X - historical,0,101,na,2,na,,101711SK
+101712,AB,Active,Active - mature - exiting,52,102,194,213,194,,101712AB
+101712,BC,Active,Active - mature - exiting,52,101,260,125,260,,101712BC
+101712,MB,Active,Active - mature - exiting,0,102,na,125,125,,101712MB
+101712,NL,Active,Active - mature - exiting,52,101,34,57,57,,101712NL
+101712,NS,Active,Active - mature - exiting,52,102,185,213,185,,101712NS
+101712,ON,Active,Active - mature - exiting,51,99,636,1198,636,,101712ON
+101712,PE,X,X - historical,52,102,0,0,na,,101712PE
+101712,SK,Active,Active - mature - exiting,0,99,na,136,136,,101712SK
+101717,MB,X,X - historical,0,101,na,0,na,,101717MB
+101717,ON,X,X - historical,0,102,na,35,na,,101717ON
+101717,SK,X,X - historical,0,99,na,0,na,,101717SK
+101718,NS,X,X - historical,52,90,27,0,na,,101718NS
+101724,SK,X,X - historical,0,39,na,0,na,,101724SK
+101725,MB,X,X - historical,0,102,na,0,na,,101725MB
+101725,QC,X,X - historical,0,101,na,0,na,,101725QC
+101725,SK,X,X - historical,0,91,na,0,na,,101725SK
+101731,AB,Active,Active - mature - exiting,44,102,458,1099,458,,101731AB
+101731,BC,Active,Active - mature - exiting,52,99,398,192,398,,101731BC
+101731,MB,Active,Active - mature - exiting,0,102,na,135,135,,101731MB
+101731,NL,Active,Active - mature - exiting,52,102,46,70,70,,101731NL
+101731,NS,Active,Active - mature - exiting,52,98,151,126,151,,101731NS
+101731,ON,Active,Active - mature - exiting,23,102,35,1753,35,,101731ON
+101731,PE,X,X - historical,52,80,0,0,na,,101731PE
+101731,SK,Active,Active - mature - exiting,0,101,na,130,130,,101731SK
+101732,QC,Active,Active - mature - exiting,49,101,4,1184,4,,101732QC
+101734,QC,X,X - historical,52,101,14,0,na,,101734QC
+101735,QC,X,X - historical,52,101,1,0,na,,101735QC
+101737,MB,X,X - historical,0,102,na,0,na,,101737MB
+101737,SK,X,X - historical,0,100,na,0,na,,101737SK
+101744,MB,X,X - historical,0,102,na,0,na,,101744MB
+101761,AB,X,X - historical,25,28,9,0,na,,101761AB
+101761,BC,Active,Active - mature - exiting,44,46,403,489,403,,101761BC
+101761,MB,Active,Active - mature - exiting,0,41,na,116,116,,101761MB
+101761,ON,Active,Active - mature - exiting,31,35,313,567,313,,101761ON
+101761,SK,Active,Active - mature - exiting,0,45,na,94,94,,101761SK
+101764,AB,X,X - historical,52,102,17,0,na,,101764AB
+101764,BC,X,X - historical,52,101,39,2,na,,101764BC
+101764,MB,X,X - historical,0,102,na,4,na,,101764MB
+101764,ON,X,X - historical,52,102,223,81,na,,101764ON
+101764,SK,X,X - historical,0,101,na,4,na,,101764SK
+101774,QC,X,X - historical,0,101,na,0,na,,101774QC
+101787,AB,X,X - historical,52,84,0,0,na,,101787AB
+101787,MB,Active,Active - mature - permanent,0,87,na,98,98,,101787MB
+101787,NL,X,X - historical,25,28,106,12,na,,101787NL
+101787,NS,Active,Active - mature - permanent,52,60,522,164,522,,101787NS
+101787,ON,Active,Active - mature - permanent,46,87,720,369,720,,101787ON
+101787,PE,Active,Active - mature - permanent,52,74,37,35,35,,101787PE
+101787,SK,X,X - historical,0,86,na,31,na,,101787SK
+101815,AB,X,X - historical,0,102,na,0,na,,101815AB
+101815,MB,X,X - historical,0,101,na,0,na,,101815MB
+101815,ON,X,X - historical,0,99,na,59,na,,101815ON
+101815,QC,X,X - historical,52,101,0,0,na,,101815QC
+101815,SK,X,X - historical,0,91,na,0,na,,101815SK
+101819,MB,X,X - historical,0,102,na,0,na,,101819MB
+101819,SK,X,X - historical,0,100,na,0,na,,101819SK
+101823,QC,Active,Active - mature - exiting,52,101,410,421,410,,101823QC
+101836,BC,Active,Active - mature - exiting,52,100,187,190,187,,101836BC
+101836,MB,Active,Active - mature - exiting,0,102,na,61,61,,101836MB
+101836,NL,X,X - historical,52,102,13,61,na,,101836NL
+101836,PE,X,X - historical,52,96,0,0,na,,101836PE
+101836,SK,Active,Active - mature - exiting,0,101,na,108,108,,101836SK
+101837,AB,Active,Active - mature - exiting,52,102,316,460,316,,101837AB
+101837,BC,X,X - historical,52,85,79,7,na,,101837BC
+101837,MB,Active,Active - mature - exiting,0,102,na,176,176,,101837MB
+101837,NL,X,X - historical,52,102,2,0,na,,101837NL
+101837,NS,X,X - historical,52,90,9,0,na,,101837NS
+101837,ON,Active,Active - mature - exiting,52,102,189,104,189,,101837ON
+101837,PE,X,X - historical,52,98,0,0,na,,101837PE
+101837,SK,Active,Active - mature - exiting,0,102,na,274,274,,101837SK
+101838,AB,X,X - historical,52,102,0,0,na,,101838AB
+101838,BC,Active,Active - mature - exiting,52,101,204,261,204,,101838BC
+101838,MB,Active,Active - mature - exiting,0,102,na,76,76,,101838MB
+101838,NL,X,X - historical,52,101,6,0,na,,101838NL
+101838,PE,X,X - historical,52,96,0,0,na,,101838PE
+101838,SK,Active,Active - mature - exiting,0,101,na,100,100,,101838SK
+101839,AB,Active,Active - mature - exiting,52,102,444,550,444,,101839AB
+101839,BC,X,X - historical,52,61,112,3,na,,101839BC
+101839,MB,Active,Active - mature - exiting,0,102,na,205,205,,101839MB
+101839,NL,X,X - historical,52,102,2,0,na,,101839NL
+101839,NS,X,X - historical,52,90,9,0,na,,101839NS
+101839,ON,Active,Active - mature - exiting,52,102,202,175,202,,101839ON
+101839,PE,X,X - historical,0,100,na,0,na,,101839PE
+101839,SK,Active,Active - mature - exiting,0,102,na,186,186,,101839SK
+101877,QC,Active,Active - mature - exiting,52,101,806,716,806,,101877QC
+101879,MB,X,X - historical,0,88,na,0,na,,101879MB
+101879,SK,X,X - historical,0,96,na,0,na,,101879SK
+101880,AB,X,X - historical,0,102,na,0,na,,101880AB
+101880,ON,X,X - historical,0,102,na,0,na,,101880ON
+101892,QC,Active,Active - mature - exiting,52,101,228,245,228,,101892QC
+101897,MB,X,X - historical,0,102,na,0,na,,101897MB
+101897,ON,X,X - historical,0,102,na,13,na,,101897ON
+101897,SK,X,X - historical,0,100,na,0,na,,101897SK
+101898,QC,Active,Active - mature - exiting,52,101,529,792,529,,101898QC
+101900,SK,X,X - historical,0,102,na,0,na,,101900SK
+101901,AB,Active,Active - mature - permanent,52,84,325,220,325,,101901AB
+101901,MB,Active,Active - mature - permanent,0,81,na,88,88,,101901MB
+101901,ON,Active,Active - mature - permanent,52,84,541,641,541,,101901ON
+101901,PE,Active,Active - mature - permanent,32,34,41,8,8,,101901PE
+101901,SK,X,X - historical,0,81,na,22,na,,101901SK
+101902,AB,Active,Active - mature - permanent,52,84,409,209,409,,101902AB
+101902,MB,Active,Active - mature - permanent,0,80,na,68,68,,101902MB
+101902,ON,Active,Active - mature - permanent,52,86,375,224,375,,101902ON
+101902,SK,X,X - historical,0,85,na,25,na,,101902SK
+101906,MB,X,X - historical,0,69,na,0,na,,101906MB
+101906,SK,X,X - historical,0,89,na,0,na,,101906SK
+101908,AB,X,X - historical,0,75,na,0,na,,101908AB
+101908,MB,X,X - historical,0,102,na,0,na,,101908MB
+101908,ON,X,X - historical,52,102,0,0,na,,101908ON
+101908,SK,X,X - historical,0,102,na,0,na,,101908SK
+101909,MB,X,X - historical,0,101,na,0,na,,101909MB
+101909,SK,X,X - historical,0,101,na,0,na,,101909SK
+101910,MB,X,X - historical,0,85,na,0,na,,101910MB
+101910,NL,X,X - historical,51,71,0,0,na,,101910NL
+101910,ON,X,X - historical,52,68,0,9,na,,101910ON
+101919,SK,X,X - historical,0,60,na,0,na,,101919SK
+101922,AB,X,X - historical,0,101,na,0,na,,101922AB
+101922,MB,X,X - historical,0,101,na,0,na,,101922MB
+101922,ON,X,X - historical,0,101,na,0,na,,101922ON
+101922,SK,X,X - historical,0,100,na,0,na,,101922SK
+101924,SK,X,X - historical,0,75,na,0,na,,101924SK
+101936,MB,X,X - historical,0,101,na,0,na,,101936MB
+101936,ON,X,X - historical,0,95,na,85,na,,101936ON
+101936,SK,X,X - historical,0,65,na,0,na,,101936SK
+101938,NS,X,X - historical,0,102,na,0,na,,101938NS
+101938,ON,X,X - historical,0,99,na,0,na,,101938ON
+101944,AB,Active,Active - mature - exiting,52,102,450,635,450,,101944AB
+101944,BC,Active,Active - mature - exiting,0,102,na,1830,na,[ERROR]: Unable to fc; check baseline.,101944BC
+101944,MB,Active,Active - mature - permanent,0,30,na,41,41,,101944MB
+101944,ON,Active,Active - mature - exiting,34,102,260,1110,260,,101944ON
+101944,QC,Active,Active - mature - exiting,0,101,na,4486,na,[ERROR]: Unable to fc; check baseline.,101944QC
+101944,SK,X,X - historical,0,27,na,0,na,,101944SK
+101945,AB,X,X - historical,0,67,na,0,na,,101945AB
+101948,AB,Active,Active - mature - permanent,0,102,na,3967,na,[ERROR]: Unable to fc; check baseline.,101948AB
+101948,BC,Active,Active - mature - permanent,52,82,739,647,739,,101948BC
+101948,MB,Active,Active - mature - permanent,0,102,na,205,205,,101948MB
+101948,NL,Active,Active - mature - permanent,52,93,47,11,11,,101948NL
+101948,ON,Active,Active - mature - permanent,0,102,na,2617,na,[ERROR]: Unable to fc; check baseline.,101948ON
+101948,PE,X,X - historical,52,102,1,0,na,,101948PE
+101948,SK,Active,Active - mature - permanent,0,102,na,204,204,,101948SK
+101949,AB,Active,Active - mature - permanent,0,102,na,2069,na,[ERROR]: Unable to fc; check baseline.,101949AB
+101949,BC,Active,Active - mature - permanent,52,82,588,515,588,,101949BC
+101949,MB,Active,Active - mature - permanent,0,102,na,161,161,,101949MB
+101949,NL,Active,Active - mature - permanent,52,72,27,4,4,,101949NL
+101949,ON,Active,Active - mature - permanent,0,102,na,1995,na,[ERROR]: Unable to fc; check baseline.,101949ON
+101949,PE,X,X - historical,52,102,1,0,na,,101949PE
+101949,SK,Active,Active - mature - permanent,0,102,na,218,218,,101949SK
+101954,MB,X,X - historical,0,101,na,0,na,,101954MB
+101954,SK,X,X - historical,0,89,na,0,na,,101954SK
+101959,QC,Active,Active - mature - exiting,0,101,na,4827,na,[ERROR]: Unable to fc; check baseline.,101959QC
+101961,MB,X,X - historical,0,70,na,0,na,,101961MB
+101961,QC,X,X - historical,52,101,0,0,na,,101961QC
+101969,AB,X,X - historical,50,96,45,6,na,,101969AB
+101969,BC,Active,Active - mature - permanent,52,102,408,195,408,,101969BC
+101969,MB,Active,Active - mature - permanent,0,102,na,37,37,,101969MB
+101969,ON,Active,Active - mature - permanent,48,74,441,966,441,,101969ON
+101969,SK,X,X - historical,0,102,na,1,na,,101969SK
+101970,ON,X,X - historical,0,82,na,0,na,,101970ON
+101970,SK,X,X - historical,0,40,na,0,na,,101970SK
+101994,MB,X,X - historical,0,102,na,0,na,,101994MB
+101994,SK,X,X - historical,0,89,na,0,na,,101994SK
+102005,QC,X,X - historical,71,86,na,0,na,,102005QC
+102025,MB,X,X - historical,0,70,na,0,na,,102025MB
+102027,MB,Active,Active - mature - permanent,0,100,na,62,62,,102027MB
+102027,NL,X,X - historical,52,73,0,0,na,,102027NL
+102027,ON,Active,Active - mature - exiting,52,99,403,459,403,,102027ON
+102027,SK,X,X - historical,0,89,na,2,na,,102027SK
+102028,MB,Active,Active - mature - permanent,0,99,na,72,72,,102028MB
+102028,NL,X,X - historical,52,73,0,0,na,,102028NL
+102028,ON,Active,Active - mature - exiting,52,99,371,213,371,,102028ON
+102028,SK,X,X - historical,0,89,na,2,na,,102028SK
+102032,NL,X,X - historical,0,102,na,0,na,,102032NL
+102033,NL,X,X - historical,0,102,na,0,na,,102033NL
+102034,NL,X,X - historical,31,97,16,0,na,,102034NL
+102035,NL,X,X - historical,0,102,na,0,na,,102035NL
+102036,AB,X,X - historical,0,86,na,0,na,,102036AB
+102036,BC,X,X - historical,52,84,2,0,na,,102036BC
+102036,MB,Active,Active - mature - permanent,0,87,na,68,68,,102036MB
+102036,NL,X,X - historical,52,86,0,0,na,,102036NL
+102036,NS,Active,Active - mature - permanent,52,86,95,7,95,,102036NS
+102036,ON,X,X - historical,52,77,87,18,na,,102036ON
+102036,SK,X,X - historical,0,86,na,5,na,,102036SK
+102037,AB,X,X - historical,49,86,16,3,na,,102037AB
+102037,BC,Active,Active - mature - permanent,52,84,687,452,687,,102037BC
+102037,MB,Active,Active - mature - permanent,0,87,na,67,67,,102037MB
+102037,NL,X,X - historical,52,73,25,4,na,,102037NL
+102037,ON,Active,Active - mature - permanent,52,77,281,558,281,,102037ON
+102037,PE,Active,Active - mature - permanent,48,52,13,6,6,,102037PE
+102037,SK,X,X - historical,0,86,na,5,na,,102037SK
+102045,MB,X,X - historical,0,102,na,0,na,,102045MB
+102045,NS,X,X - historical,52,94,1,0,na,,102045NS
+102045,ON,X,X - historical,52,90,0,0,na,,102045ON
+102045,SK,X,X - historical,0,102,na,0,na,,102045SK
+102046,QC,X,X - historical,52,86,129,15,na,,102046QC
+102051,QC,X,X - historical,52,86,170,27,na,,102051QC
+102052,MB,X,X - historical,0,102,na,0,na,,102052MB
+102052,ON,X,X - historical,0,74,na,0,na,,102052ON
+102052,PE,X,X - historical,0,92,na,0,na,,102052PE
+102052,SK,X,X - historical,0,102,na,0,na,,102052SK
+102053,AB,Active,Active - mature - permanent,52,100,704,555,704,,102053AB
+102053,MB,Active,Active - mature - permanent,0,102,na,105,105,,102053MB
+102053,PE,X,X - historical,0,102,na,0,na,,102053PE
+102053,SK,X,X - historical,0,102,na,10,na,,102053SK
+102058,ON,X,X - historical,0,82,na,0,na,,102058ON
+102058,QC,X,X - historical,52,84,0,0,na,,102058QC
+102059,AB,Active,Active - mature - exiting,50,90,592,808,592,,102059AB
+102059,BC,Active,Active - mature - exiting,52,84,595,339,595,,102059BC
+102059,MB,Active,Active - mature - exiting,0,88,na,129,129,,102059MB
+102059,NL,Active,Active - mature - exiting,52,73,123,41,41,,102059NL
+102059,ON,Active,Active - mature - exiting,49,72,189,1480,189,,102059ON
+102059,PE,X,X - historical,26,28,1,0,na,,102059PE
+102059,SK,Active,Active - mature - exiting,0,88,na,179,179,,102059SK
+102063,AB,X,X - historical,52,86,0,0,na,,102063AB
+102063,MB,X,X - historical,0,52,na,43,na,,102063MB
+102063,ON,X,X - historical,49,82,0,0,na,,102063ON
+102063,SK,X,X - historical,0,54,na,0,na,,102063SK
+102064,AB,X,X - historical,52,73,0,0,na,,102064AB
+102064,MB,X,X - historical,0,43,na,26,na,,102064MB
+102064,ON,X,X - historical,52,72,2,0,na,,102064ON
+102064,SK,X,X - historical,0,52,na,0,na,,102064SK
+102065,BC,Active,Active - mature - permanent,52,85,146,84,146,,102065BC
+102066,AB,X,X - historical,52,86,0,0,na,,102066AB
+102066,BC,X,X - historical,38,40,3,0,na,,102066BC
+102066,MB,X,X - historical,0,86,na,13,na,,102066MB
+102066,ON,X,X - historical,52,77,1,1,na,,102066ON
+102066,SK,X,X - historical,0,87,na,0,na,,102066SK
+102069,MB,X,X - historical,0,99,na,0,na,,102069MB
+102069,SK,X,X - historical,0,98,na,0,na,,102069SK
+102074,AB,X,X - historical,52,101,0,0,na,,102074AB
+102074,MB,X,X - historical,0,95,na,0,na,,102074MB
+102074,SK,X,X - historical,0,89,na,0,na,,102074SK
+102078,AB,X,X - historical,52,66,0,0,na,,102078AB
+102078,BC,Active,Active - mature - permanent,52,100,350,276,350,,102078BC
+102078,MB,Active,Active - mature - permanent,0,102,na,173,173,,102078MB
+102078,NL,Active,Active - mature - permanent,52,97,29,110,110,,102078NL
+102078,NS,Active,Active - mature - permanent,52,90,96,23,96,,102078NS
+102078,ON,Active,Active - mature - permanent,52,86,598,444,598,,102078ON
+102078,PE,Active,Active - mature - permanent,48,58,67,36,36,,102078PE
+102078,SK,X,X - historical,0,102,na,56,na,,102078SK
+102080,SK,X,X - historical,0,42,na,0,na,,102080SK
+102082,SK,X,X - historical,0,71,na,0,na,,102082SK
+102084,AB,X,X - historical,50,62,0,0,na,,102084AB
+102084,BC,X,X - historical,52,78,0,0,na,,102084BC
+102084,MB,X,X - historical,0,75,na,1,na,,102084MB
+102084,ON,X,X - historical,52,83,13,6,na,,102084ON
+102084,SK,X,X - historical,0,75,na,7,na,,102084SK
+102085,AB,X,X - historical,52,61,0,0,na,,102085AB
+102085,ON,X,X - historical,52,83,3,0,na,,102085ON
+102086,AB,X,X - historical,52,79,0,0,na,,102086AB
+102086,BC,X,X - historical,52,78,0,0,na,,102086BC
+102086,MB,X,X - historical,0,75,na,0,na,,102086MB
+102086,ON,X,X - historical,0,63,na,1,na,,102086ON
+102086,SK,X,X - historical,0,74,na,5,na,,102086SK
+102090,QC,X,X - historical,52,86,0,0,na,,102090QC
+102095,AB,X,X - historical,52,81,1,0,na,,102095AB
+102095,ON,X,X - historical,52,90,73,20,na,,102095ON
+102096,ON,X,X - historical,52,90,7,0,na,,102096ON
+102097,ON,X,X - historical,52,90,21,1,na,,102097ON
+102098,AB,Active,Active - mature - exiting,52,87,606,1236,606,,102098AB
+102098,BC,Active,Active - mature - exiting,52,93,238,275,238,,102098BC
+102098,MB,Active,Active - mature - exiting,0,85,na,50,50,,102098MB
+102098,NL,Active,Active - mature - exiting,52,66,24,20,20,,102098NL
+102098,NS,Active,Active - mature - exiting,52,66,141,130,141,,102098NS
+102098,ON,Active,Active - mature - exiting,52,90,586,1277,586,,102098ON
+102098,PE,X,X - historical,48,58,1,0,na,,102098PE
+102098,SK,Active,Active - mature - exiting,0,88,na,124,124,,102098SK
+102099,AB,Active,Active - mature - permanent,31,34,128,107,128,,102099AB
+102099,MB,Active,Active - mature - permanent,0,33,na,123,123,,102099MB
+102099,ON,Active,Active - mature - permanent,19,22,457,868,457,,102099ON
+102099,SK,X,X - historical,0,35,na,19,na,,102099SK
+102105,QC,X,X - historical,0,86,na,0,na,,102105QC
+102106,QC,Active,Active - mature - exiting,52,58,299,300,299,,102106QC
+102125,QC,Active,Active - mature - exiting,52,84,66,42,66,,102125QC
+102127,AB,X,X - historical,52,81,33,9,na,,102127AB
+102127,MB,Active,Active - mature - permanent,0,79,na,58,58,,102127MB
+102127,NL,X,X - historical,52,61,48,54,na,,102127NL
+102127,ON,Active,Active - mature - permanent,52,68,85,28,85,,102127ON
+102127,PE,Active,Active - mature - permanent,52,86,8,51,51,,102127PE
+102127,SK,X,X - historical,0,78,na,10,na,,102127SK
+102128,AB,X,X - historical,52,58,0,0,na,,102128AB
+102128,MB,X,X - historical,0,57,na,0,na,,102128MB
+102128,ON,X,X - historical,52,72,0,0,na,,102128ON
+102128,SK,X,X - historical,0,61,na,0,na,,102128SK
+102142,QC,X,X - historical,0,101,na,0,na,,102142QC
+102151,AB,X,X - historical,52,94,0,0,na,,102151AB
+102151,BC,Active,Active - mature - exiting,41,93,498,1339,498,,102151BC
+102151,MB,X,X - historical,0,88,na,0,na,,102151MB
+102151,ON,Active,Active - mature - exiting,44,95,657,963,657,,102151ON
+102151,PE,X,X - historical,52,82,1,0,na,,102151PE
+102151,SK,X,X - historical,0,88,na,0,na,,102151SK
+102152,AB,X,X - historical,52,94,0,0,na,,102152AB
+102152,BC,X,X - historical,52,93,0,0,na,,102152BC
+102152,MB,X,X - historical,0,88,na,0,na,,102152MB
+102152,ON,X,X - historical,51,95,0,0,na,,102152ON
+102152,SK,X,X - historical,0,88,na,0,na,,102152SK
+102153,AB,X,X - historical,52,92,0,0,na,,102153AB
+102153,BC,X,X - historical,0,92,na,0,na,,102153BC
+102153,MB,X,X - historical,0,88,na,0,na,,102153MB
+102153,ON,X,X - historical,52,92,0,0,na,,102153ON
+102153,SK,X,X - historical,0,88,na,0,na,,102153SK
+102154,AB,Active,Active - mature - exiting,52,94,490,459,490,,102154AB
+102154,BC,Active,Active - mature - exiting,29,93,516,1295,516,,102154BC
+102154,MB,X,X - historical,0,88,na,0,na,,102154MB
+102154,ON,Active,Active - mature - exiting,45,95,758,895,758,,102154ON
+102154,SK,Active,Active - mature - exiting,0,88,na,57,57,,102154SK
+102155,AB,X,X - historical,52,94,0,0,na,,102155AB
+102155,BC,Active,Active - mature - exiting,41,93,575,1270,575,,102155BC
+102155,MB,Active,Active - mature - permanent,0,88,na,50,50,,102155MB
+102155,NL,X,X - historical,52,62,46,1,na,,102155NL
+102155,ON,Active,Active - mature - exiting,52,95,481,366,481,,102155ON
+102155,SK,X,X - historical,0,88,na,0,na,,102155SK
+102156,AB,Active,Active - mature - exiting,52,93,659,418,659,,102156AB
+102156,BC,Active,Active - mature - exiting,40,93,49,2205,49,,102156BC
+102156,MB,Active,Active - mature - permanent,0,88,na,72,72,,102156MB
+102156,NL,X,X - historical,45,48,16,0,na,,102156NL
+102156,ON,Active,Active - mature - exiting,43,95,0,1780,0,,102156ON
+102156,PE,Active,Active - mature - exiting,52,82,30,13,13,,102156PE
+102156,SK,Active,Active - mature - exiting,0,88,na,76,76,,102156SK
+102157,AB,X,X - historical,52,94,0,0,na,,102157AB
+102157,MB,X,X - historical,0,88,na,0,na,,102157MB
+102157,ON,X,X - historical,52,95,0,0,na,,102157ON
+102157,SK,X,X - historical,0,88,na,0,na,,102157SK
+102158,AB,X,X - historical,52,94,0,0,na,,102158AB
+102158,MB,X,X - historical,0,88,na,0,na,,102158MB
+102158,ON,X,X - historical,52,91,0,0,na,,102158ON
+102158,SK,X,X - historical,0,86,na,33,na,,102158SK
+102159,AB,X,X - historical,52,94,0,0,na,,102159AB
+102159,BC,X,X - historical,52,75,0,0,na,,102159BC
+102159,MB,X,X - historical,0,88,na,0,na,,102159MB
+102159,NL,X,X - historical,52,73,0,0,na,,102159NL
+102159,ON,X,X - historical,52,95,0,0,na,,102159ON
+102159,SK,X,X - historical,0,85,na,0,na,,102159SK
+102160,AB,Active,Active - mature - exiting,52,91,392,284,392,,102160AB
+102160,BC,X,X - historical,52,91,36,2,na,,102160BC
+102160,MB,Active,Active - mature - permanent,0,88,na,109,109,,102160MB
+102160,ON,Active,Active - mature - exiting,52,95,340,352,340,,102160ON
+102160,PE,X,X - historical,0,10,na,48,na,,102160PE
+102160,SK,Active,Active - mature - exiting,0,89,na,90,90,,102160SK
+102161,AB,X,X - historical,52,94,0,0,na,,102161AB
+102161,BC,X,X - historical,0,93,na,0,na,,102161BC
+102161,MB,X,X - historical,0,88,na,0,na,,102161MB
+102161,ON,X,X - historical,52,95,0,0,na,,102161ON
+102161,SK,X,X - historical,0,86,na,0,na,,102161SK
+102162,AB,X,X - historical,52,94,0,0,na,,102162AB
+102162,MB,X,X - historical,0,88,na,0,na,,102162MB
+102162,ON,X,X - historical,52,95,0,0,na,,102162ON
+102162,SK,X,X - historical,0,84,na,0,na,,102162SK
+102163,AB,X,X - historical,52,94,0,0,na,,102163AB
+102163,BC,X,X - historical,42,93,502,35,na,,102163BC
+102163,MB,X,X - historical,0,88,na,0,na,,102163MB
+102163,ON,X,X - historical,52,95,572,225,na,,102163ON
+102163,SK,X,X - historical,0,88,na,0,na,,102163SK
+102164,AB,Active,Active - mature - permanent,52,91,569,620,569,,102164AB
+102164,MB,X,X - historical,0,88,na,0,na,,102164MB
+102164,ON,Active,Active - mature - permanent,52,95,380,386,380,,102164ON
+102164,PE,NPD,NPD - late launch,0,0,na,na,50.0,Late launch; pushing.[WARNING]: no loadin data.,102164PE
+102164,SK,X,X - historical,0,88,na,0,na,,102164SK
+102165,AB,Active,Active - mature - exiting,44,94,51,962,51,,102165AB
+102165,BC,Active,Active - mature - exiting,42,93,761,732,761,,102165BC
+102165,MB,Active,Active - mature - permanent,0,88,na,96,96,,102165MB
+102165,NS,Active,Active - mature - exiting,29,32,119,204,119,,102165NS
+102165,ON,Active,Active - mature - exiting,46,95,733,880,733,,102165ON
+102165,PE,X,X - historical,52,82,0,0,na,,102165PE
+102165,SK,Active,Active - mature - exiting,0,88,na,136,136,,102165SK
+102167,AB,X,X - historical,52,86,0,0,na,,102167AB
+102167,BC,X,X - historical,0,85,na,0,na,,102167BC
+102167,MB,Active,Active - mature - permanent,0,81,na,1,1,,102167MB
+102167,ON,X,X - historical,52,77,4,4,na,,102167ON
+102167,SK,X,X - historical,0,80,na,0,na,,102167SK
+102168,AB,X,X - historical,52,90,0,0,na,,102168AB
+102168,MB,Active,Active - mature - permanent,0,79,na,21,21,,102168MB
+102168,ON,Active,Active - mature - permanent,52,77,66,62,66,,102168ON
+102168,SK,X,X - historical,0,82,na,4,na,,102168SK
+102174,QC,X,X - historical,52,97,0,0,na,,102174QC
+102176,AB,X,X - historical,52,69,13,0,na,,102176AB
+102176,MB,X,X - historical,0,66,na,6,na,,102176MB
+102176,ON,X,X - historical,52,54,0,0,na,,102176ON
+102176,SK,X,X - historical,0,59,na,0,na,,102176SK
+102177,AB,X,X - historical,52,69,0,0,na,,102177AB
+102177,BC,X,X - historical,40,44,19,0,na,,102177BC
+102177,MB,Active,Active - mature - permanent,0,67,na,22,22,,102177MB
+102177,ON,X,X - historical,52,63,5,4,na,,102177ON
+102177,SK,X,X - historical,0,62,na,0,na,,102177SK
+102178,AB,X,X - historical,52,69,5,0,na,,102178AB
+102178,MB,X,X - historical,0,67,na,7,na,,102178MB
+102178,ON,X,X - historical,52,54,0,0,na,,102178ON
+102178,SK,X,X - historical,0,65,na,0,na,,102178SK
+102184,AB,X,X - historical,41,50,7,0,na,,102184AB
+102184,MB,X,X - historical,0,42,na,4,na,,102184MB
+102184,ON,X,X - historical,52,56,4,0,na,,102184ON
+102184,SK,X,X - historical,0,42,na,0,na,,102184SK
+102189,BC,X,X - historical,52,90,172,6,na,,102189BC
+102194,AB,X,X - historical,52,62,4,1,na,,102194AB
+102194,MB,Active,Active - mature - permanent,0,67,na,92,92,,102194MB
+102194,NL,Active,Active - mature - permanent,45,48,24,0,0,,102194NL
+102194,NS,X,X - historical,52,62,0,0,na,,102194NS
+102194,ON,Active,Active - mature - permanent,46,50,14,17,14,,102194ON
+102194,PE,X,X - historical,52,58,0,0,na,,102194PE
+102194,SK,Active,Active - mature - permanent,0,71,na,111,111,,102194SK
+102195,AB,X,X - historical,52,62,6,1,na,,102195AB
+102195,MB,Active,Active - mature - permanent,0,67,na,107,107,,102195MB
+102195,NL,Active,Active - mature - permanent,46,48,24,0,0,,102195NL
+102195,NS,X,X - historical,52,62,0,0,na,,102195NS
+102195,ON,Active,Active - mature - permanent,46,50,32,34,32,,102195ON
+102195,PE,X,X - historical,52,58,0,0,na,,102195PE
+102195,SK,Active,Active - mature - permanent,0,71,na,118,118,,102195SK
+102207,QC,Active,Active - mature - exiting,37,82,4,1328,4,,102207QC
+102208,QC,Active,Active - mature - exiting,0,82,na,1345,na,[ERROR]: Unable to fc; check baseline.,102208QC
+102210,QC,X,X - historical,0,82,na,0,na,,102210QC
+102211,QC,X,X - historical,0,82,na,0,na,,102211QC
+102212,AB,X,X - historical,52,72,0,0,na,,102212AB
+102212,MB,X,X - historical,0,67,na,3,na,,102212MB
+102212,ON,X,X - historical,52,60,5,4,na,,102212ON
+102212,SK,X,X - historical,0,67,na,0,na,,102212SK
+102224,AB,Active,Active - mature - permanent,52,80,120,162,120,,102224AB
+102224,MB,Active,Active - mature - permanent,0,71,na,50,50,,102224MB
+102224,NL,X,X - historical,52,73,2,0,na,,102224NL
+102224,ON,Active,Active - mature - permanent,52,72,112,102,112,,102224ON
+102224,PE,Active,Active - mature - permanent,30,32,3,0,0,,102224PE
+102224,SK,X,X - historical,0,75,na,22,na,,102224SK
+102225,AB,X,X - historical,52,80,0,0,na,,102225AB
+102225,MB,Active,Active - mature - permanent,0,71,na,51,51,,102225MB
+102225,NL,Active,Active - mature - permanent,52,73,38,26,26,,102225NL
+102225,ON,Active,Active - mature - permanent,52,77,215,243,215,,102225ON
+102225,PE,Active,Active - mature - permanent,30,32,8,19,19,,102225PE
+102225,SK,X,X - historical,0,75,na,16,na,,102225SK
+102226,AB,X,X - historical,52,80,0,0,na,,102226AB
+102226,MB,X,X - historical,0,79,na,4,na,,102226MB
+102226,ON,X,X - historical,52,77,20,3,na,,102226ON
+102226,SK,X,X - historical,0,82,na,2,na,,102226SK
+102227,MB,X,X - historical,0,71,na,3,na,,102227MB
+102227,ON,X,X - historical,52,77,5,4,na,,102227ON
+102227,SK,X,X - historical,0,74,na,0,na,,102227SK
+102228,QC,X,X - historical,52,82,0,0,na,,102228QC
+102232,BC,X,X - historical,44,46,4,0,na,,102232BC
+102232,MB,Active,Active - mature - permanent,0,35,na,0,0,,102232MB
+102232,ON,Active,Active - mature - permanent,47,54,16,28,16,,102232ON
+102232,SK,X,X - historical,0,35,na,0,na,,102232SK
+102237,AB,X,X - historical,41,44,0,0,na,,102237AB
+102237,BC,X,X - historical,42,44,21,0,na,,102237BC
+102237,MB,Active,Active - mature - permanent,0,44,na,10,10,,102237MB
+102237,NL,X,X - historical,41,44,14,0,na,,102237NL
+102237,ON,Active,Active - mature - permanent,30,30,10,9,10,,102237ON
+102237,SK,X,X - historical,0,45,na,0,na,,102237SK
+102238,AB,X,X - historical,52,59,0,0,na,,102238AB
+102238,MB,X,X - historical,0,54,na,0,na,,102238MB
+102238,PE,X,X - historical,45,46,0,0,na,,102238PE
+102238,SK,X,X - historical,0,56,na,0,na,,102238SK
+102241,AB,X,X - historical,52,72,2,0,na,,102241AB
+102241,BC,X,X - historical,52,74,33,1,na,,102241BC
+102241,MB,Active,Active - mature - permanent,0,71,na,37,37,,102241MB
+102241,NL,X,X - historical,52,73,2,0,na,,102241NL
+102241,NS,Active,Active - mature - permanent,52,62,92,29,92,,102241NS
+102241,ON,Active,Active - mature - permanent,52,63,80,77,80,,102241ON
+102241,PE,X,X - historical,18,22,37,49,na,,102241PE
+102241,SK,X,X - historical,0,73,na,5,na,,102241SK
+102242,AB,X,X - historical,52,72,14,0,na,,102242AB
+102242,MB,X,X - historical,0,71,na,27,na,,102242MB
+102242,NL,X,X - historical,52,73,32,0,na,,102242NL
+102242,ON,X,X - historical,52,63,228,199,na,,102242ON
+102242,PE,X,X - historical,48,52,0,0,na,,102242PE
+102242,SK,X,X - historical,0,72,na,0,na,,102242SK
+102243,AB,Active,Active - mature - permanent,52,72,257,225,257,,102243AB
+102243,BC,X,X - historical,52,66,3,0,na,,102243BC
+102243,MB,Active,Active - mature - permanent,0,71,na,71,71,,102243MB
+102243,NL,Active,Active - mature - permanent,52,73,41,15,15,,102243NL
+102243,NS,Active,Active - mature - permanent,52,62,176,91,176,,102243NS
+102243,ON,Active,Active - mature - permanent,52,56,263,264,263,,102243ON
+102243,PE,X,X - historical,26,28,21,40,na,,102243PE
+102243,SK,X,X - historical,0,71,na,12,na,,102243SK
+102244,AB,Active,Active - mature - exiting,42,45,5,79,5,,102244AB
+102244,BC,Active,Active - mature - exiting,48,53,210,201,210,,102244BC
+102244,MB,Active,Active - mature - permanent,0,56,na,30,30,,102244MB
+102244,ON,Active,Active - mature - exiting,52,54,99,93,99,,102244ON
+102244,SK,X,X - historical,0,56,na,2,na,,102244SK
+102245,AB,X,X - historical,52,62,0,0,na,,102245AB
+102245,MB,X,X - historical,0,66,na,0,na,,102245MB
+102245,ON,X,X - historical,52,54,13,1,na,,102245ON
+102245,PE,X,X - historical,0,58,na,0,na,,102245PE
+102245,SK,X,X - historical,0,59,na,0,na,,102245SK
+102246,AB,X,X - historical,52,62,0,0,na,,102246AB
+102246,MB,X,X - historical,0,66,na,0,na,,102246MB
+102246,ON,X,X - historical,52,54,10,0,na,,102246ON
+102246,SK,X,X - historical,0,59,na,0,na,,102246SK
+102247,AB,X,X - historical,52,57,0,0,na,,102247AB
+102247,MB,Active,Active - mature - permanent,0,67,na,30,30,,102247MB
+102247,ON,Active,Active - mature - permanent,52,56,25,24,25,,102247ON
+102247,SK,X,X - historical,0,69,na,1,na,,102247SK
+102248,AB,X,X - historical,52,57,0,0,na,,102248AB
+102248,BC,X,X - historical,0,70,na,0,na,,102248BC
+102248,MB,Active,Active - mature - permanent,0,67,na,3,3,,102248MB
+102248,ON,Active,Active - mature - permanent,52,56,29,33,29,,102248ON
+102248,SK,X,X - historical,0,69,na,1,na,,102248SK
+102249,AB,X,X - historical,52,56,0,0,na,,102249AB
+102249,BC,X,X - historical,52,70,0,0,na,,102249BC
+102249,MB,Active,Active - mature - permanent,0,67,na,31,31,,102249MB
+102249,ON,Active,Active - mature - permanent,52,56,151,146,151,,102249ON
+102249,SK,X,X - historical,0,69,na,1,na,,102249SK
+102252,AB,X,X - historical,44,58,21,3,na,,102252AB
+102252,BC,X,X - historical,51,55,6,0,na,,102252BC
+102252,MB,X,X - historical,0,55,na,5,na,,102252MB
+102252,NL,X,X - historical,26,29,0,0,na,,102252NL
+102252,ON,X,X - historical,48,48,105,2,na,,102252ON
+102252,PE,X,X - historical,32,34,40,9,na,,102252PE
+102252,SK,X,X - historical,0,57,na,3,na,,102252SK
+102253,AB,Active,Active - mature - exiting,50,58,719,790,719,,102253AB
+102253,MB,Active,Active - mature - permanent,0,55,na,107,107,,102253MB
+102253,NS,Active,Active - NPD - permanent,0,10,na,356,na,[ERROR]: Unable to fc; check baseline.,102253NS
+102253,ON,Active,Active - mature - exiting,44,50,767,879,767,,102253ON
+102253,PE,Active,Active - mature - exiting,45,46,30,35,35,,102253PE
+102253,SK,X,X - historical,0,57,na,34,na,,102253SK
+102260,AB,X,X - historical,32,35,4,0,na,,102260AB
+102260,MB,X,X - historical,0,30,na,0,na,,102260MB
+102260,ON,X,X - historical,41,41,1,1,na,,102260ON
+102260,SK,X,X - historical,0,34,na,0,na,,102260SK
+102261,AB,X,X - historical,30,33,25,0,na,,102261AB
+102261,MB,Active,Active - mature - permanent,0,18,na,15,15,,102261MB
+102261,ON,Active,Active - mature - permanent,30,30,8,8,8,,102261ON
+102270,QC,Active,Active - mature - permanent,52,62,646,718,646,,102270QC
+102276,AB,X,X - historical,37,40,17,0,na,,102276AB
+102276,MB,Active,Active - mature - permanent,0,20,na,36,36,,102276MB
+102276,SK,X,X - historical,0,14,na,0,na,,102276SK
+102279,QC,X,X - historical,52,60,0,0,na,,102279QC
+102280,QC,X,X - historical,52,58,0,0,na,,102280QC
+102282,QC,X,X - historical,52,58,16,3,na,,102282QC
+102286,QC,Active,Active - mature - exiting,52,60,674,750,674,,102286QC
+102287,QC,X,X - historical,52,60,1,0,na,,102287QC
+102302,MB,Active,Active - mature - permanent,0,42,na,11,11,,102302MB
+102302,ON,X,X - historical,34,34,7,6,na,,102302ON
+102302,SK,X,X - historical,0,42,na,6,na,,102302SK
+102303,AB,Active,Active - mature - permanent,38,45,41,0,41,,102303AB
+102303,BC,X,X - historical,40,44,41,0,na,,102303BC
+102303,MB,Active,Active - mature - permanent,0,42,na,9,9,,102303MB
+102303,SK,Active,Active - mature - permanent,0,42,na,42,42,,102303SK
+102309,MB,X,X - historical,0,33,na,12,na,,102309MB
+102309,ON,Active,Active - mature - permanent,39,47,6,1,6,,102309ON
+102309,SK,X,X - historical,0,32,na,0,na,,102309SK
+102310,AB,X,X - historical,37,48,0,0,na,,102310AB
+102310,MB,X,X - historical,0,30,na,5,na,,102310MB
+102310,ON,X,X - historical,16,16,11,10,na,,102310ON
+102310,SK,X,X - historical,0,42,na,0,na,,102310SK
+102311,AB,X,X - historical,45,48,8,0,na,,102311AB
+102311,MB,Active,Active - mature - permanent,0,42,na,8,8,,102311MB
+102311,ON,Active,Active - mature - permanent,48,48,1,1,1,,102311ON
+102311,SK,X,X - historical,0,42,na,0,na,,102311SK
+102313,AB,Active,Active - mature - permanent,41,48,23,0,23,,102313AB
+102313,MB,Active,Active - mature - permanent,0,33,na,29,29,,102313MB
+102313,ON,Active,Active - mature - permanent,48,48,0,0,0,,102313ON
+102313,SK,X,X - historical,0,37,na,0,na,,102313SK
+102315,AB,X,X - historical,49,52,0,0,na,,102315AB
+102315,MB,X,X - historical,0,31,na,25,na,,102315MB
+102315,ON,X,X - historical,41,42,0,0,na,,102315ON
+102315,SK,X,X - historical,0,22,na,0,na,,102315SK
+102316,MB,X,X - historical,0,31,na,0,na,,102316MB
+102316,NL,X,X - historical,25,28,17,0,na,,102316NL
+102316,ON,X,X - historical,44,50,3,0,na,,102316ON
+102316,SK,X,X - historical,0,27,na,0,na,,102316SK
+102319,QC,X,X - historical,52,60,0,0,na,,102319QC
+102320,AB,X,X - historical,45,48,0,0,na,,102320AB
+102320,MB,Active,Active - mature - permanent,0,19,na,33,33,,102320MB
+102320,ON,Active,Active - mature - permanent,44,47,0,0,0,,102320ON
+102320,SK,X,X - historical,0,19,na,10,na,,102320SK
+102321,QC,X,X - historical,0,60,na,0,na,,102321QC
+102327,AB,X,X - historical,36,39,0,0,na,,102327AB
+102327,MB,X,X - historical,0,28,na,17,na,,102327MB
+102327,ON,X,X - historical,33,33,0,0,na,,102327ON
+102327,SK,X,X - historical,0,30,na,0,na,,102327SK
+102329,AB,Active,Active - mature - exiting,0,25,na,4737,na,[ERROR]: Unable to fc; check baseline.,102329AB
+102329,BC,Active,Active - mature - exiting,28,30,0,1646,0,,102329BC
+102329,MB,Active,Active - mature - exiting,0,31,na,231,231,,102329MB
+102329,NL,Active,Active - mature - exiting,26,29,207,138,138,,102329NL
+102329,NS,Active,Active - NPD - exiting,0,6,na,353,na,[ERROR]: Unable to fc; check baseline.,102329NS
+102329,ON,Active,Active - mature - exiting,0,31,na,5561,na,[ERROR]: Unable to fc; check baseline.,102329ON
+102329,PE,Active,Active - mature - exiting,26,28,103,23,23,,102329PE
+102329,SK,Active,Active - mature - exiting,0,32,na,176,176,,102329SK
+102330,AB,Active,Active - mature - permanent,21,25,697,598,697,,102330AB
+102330,MB,Active,Active - mature - permanent,0,31,na,241,241,,102330MB
+102330,NL,Active,Active - mature - permanent,26,29,131,5,5,,102330NL
+102330,NS,Active,Active - NPD - permanent,0,6,na,517,na,[ERROR]: Unable to fc; check baseline.,102330NS
+102330,ON,Active,Active - mature - permanent,16,31,2,3479,2,,102330ON
+102330,SK,Active,Active - mature - permanent,0,32,na,153,153,,102330SK
+102331,AB,Active,Active - mature - exiting,20,25,1,3184,1,,102331AB
+102331,BC,Active,Active - mature - exiting,28,30,326,767,326,,102331BC
+102331,MB,Active,Active - mature - exiting,0,30,na,240,240,,102331MB
+102331,NB,Active,Active - mature - exiting,14,16,190,174,120.0,,102331NB
+102331,NL,Active,Active - mature - exiting,26,29,149,13,13,,102331NL
+102331,ON,Active,Active - mature - exiting,21,31,1,3841,1,,102331ON
+102331,PE,Active,Active - mature - exiting,26,28,69,6,6,,102331PE
+102331,SK,Active,Active - mature - exiting,0,32,na,167,167,,102331SK
+102336,MB,NPD,NPD - future launch,0,0,na,na,250.0,,102336MB
+102336,ON,NPD,NPD - future launch,0,0,na,na,1200.0,,102336ON
+102336,SK,NPD,NPD - future launch,0,0,na,na,175.0,,102336SK
+102337,MB,NPD,NPD - future launch,0,0,na,na,250.0,,102337MB
+102337,ON,NPD,NPD - future launch,0,0,na,na,1200.0,,102337ON
+102337,SK,NPD,NPD - future launch,0,0,na,na,175.0,,102337SK
+102358,AB,Active,Active - NPD - exiting,2,5,na,738,na,[ERROR]: Unable to fc; check baseline.,102358AB
+102358,MB,Active,Active - mature - permanent,0,20,na,26,26,,102358MB
+102358,ON,Active,Active - mature - exiting,27,30,312,446,312,,102358ON
+102358,PE,Active,Active - mature - permanent,0,20,na,13,13,,102358PE
+102358,SK,X,X - historical,0,20,na,0,na,,102358SK
+102381,AB,Active,Active - mature - exiting,46,49,310,314,310,,102381AB
+102381,MB,Active,Active - mature - exiting,0,48,na,194,194,,102381MB
+102381,NL,Active,Active - mature - exiting,45,48,35,26,26,,102381NL
+102381,NS,Active,Active - NPD - permanent,0,10,na,10,na,[ERROR]: Unable to fc; check baseline.,102381NS
+102381,ON,Active,Active - mature - exiting,40,45,559,656,559,,102381ON
+102381,PE,Active,Active - mature - exiting,30,32,45,41,41,,102381PE
+102381,SK,X,X - historical,0,49,na,26,na,,102381SK
+102382,AB,Active,Active - mature - permanent,46,49,230,238,230,,102382AB
+102382,MB,Active,Active - mature - permanent,0,48,na,75,75,,102382MB
+102382,NB,NPD,NPD - late launch,0,0,na,na,15.0,Late launch; pushing.[WARNING]: no loadin data.,102382NB
+102382,NL,Active,Active - mature - permanent,45,48,14,17,17,,102382NL
+102382,NS,X,X - historical,0,10,na,26,na,,102382NS
+102382,ON,Active,Active - mature - permanent,21,21,65,67,65,,102382ON
+102382,PE,Active,Active - mature - permanent,30,32,10,2,2,,102382PE
+102382,SK,X,X - historical,0,49,na,18,na,,102382SK
+102383,AB,Active,Active - mature - exiting,30,34,133,70,133,,102383AB
+102383,MB,Active,Active - mature - exiting,0,48,na,83,83,,102383MB
+102383,ON,Active,Active - mature - exiting,30,30,156,327,156,,102383ON
+102383,PE,Active,Active - mature - exiting,30,32,13,14,14,,102383PE
+102383,SK,Active,Active - mature - exiting,0,49,na,110,110,,102383SK
+102384,AB,X,X - historical,35,38,6,0,na,,102384AB
+102384,BC,X,X - historical,37,39,1,0,na,,102384BC
+102384,MB,Active,Active - mature - permanent,0,28,na,44,44,,102384MB
+102384,SK,X,X - historical,0,29,na,6,na,,102384SK
+102390,AB,Active,Active - mature - exiting,32,36,588,916,588,,102390AB
+102390,BC,Active,Active - mature - exiting,31,36,440,243,440,,102390BC
+102390,MB,Active,Active - mature - permanent,0,31,na,97,97,,102390MB
+102390,SK,X,X - historical,0,32,na,0,na,,102390SK
+102391,MB,Active,Active - mature - permanent,0,28,na,0,0,,102391MB
+102391,NS,X,X - historical,0,44,na,0,na,,102391NS
+102391,ON,X,X - historical,27,31,26,0,na,,102391ON
+102391,SK,X,X - historical,0,30,na,15,na,,102391SK
+102392,ON,X,X - historical,34,34,0,0,na,,102392ON
+102392,PE,X,X - historical,30,34,0,0,na,,102392PE
+102393,AB,X,X - historical,33,36,18,0,na,,102393AB
+102393,MB,Active,Active - mature - permanent,0,21,na,3,3,,102393MB
+102393,ON,Active,Active - mature - permanent,34,34,7,7,7,,102393ON
+102393,PE,X,X - historical,28,30,3,0,na,,102393PE
+102393,SK,X,X - historical,0,21,na,0,na,,102393SK
+102395,BC,X,X - historical,52,55,0,0,na,,102395BC
+102397,BC,X,X - historical,0,55,na,0,na,,102397BC
+102404,AB,X,X - historical,33,36,202,156,na,,102404AB
+102404,MB,Active,Active - mature - permanent,0,31,na,28,28,,102404MB
+102404,PE,X,X - historical,30,32,14,8,na,,102404PE
+102404,SK,X,X - historical,0,32,na,0,na,,102404SK
+102405,AB,Active,Active - mature - permanent,32,36,395,433,395,,102405AB
+102405,BC,X,X - historical,27,36,309,69,na,,102405BC
+102405,MB,Active,Active - mature - permanent,0,31,na,99,99,,102405MB
+102405,NL,X,X - historical,26,29,76,6,na,,102405NL
+102405,ON,NPD,NPD - late launch,0,0,na,na,500.0,Late launch; pushing.,102405ON
+102405,SK,X,X - historical,0,32,na,0,na,,102405SK
+102408,AB,X,X - historical,28,31,22,0,na,,102408AB
+102408,MB,Active,Active - mature - permanent,0,29,na,50,50,,102408MB
+102408,ON,Active,Active - mature - exiting,30,30,131,160,131,,102408ON
+102408,PE,Active,Active - mature - exiting,26,28,52,31,31,,102408PE
+102408,SK,X,X - historical,0,19,na,4,na,,102408SK
+102409,AB,Active,Active - mature - exiting,28,31,567,438,567,,102409AB
+102409,MB,Active,Active - mature - permanent,0,29,na,59,59,,102409MB
+102409,NS,Active,Active - NPD - permanent,0,10,na,206,na,[ERROR]: Unable to fc; check baseline.,102409NS
+102409,ON,Active,Active - mature - exiting,25,31,284,143,284,,102409ON
+102409,SK,X,X - historical,0,13,na,39,na,,102409SK
+102420,AB,Active,Active - mature - permanent,42,45,48,72,48,,102420AB
+102420,BC,X,X - historical,42,46,1,0,na,,102420BC
+102420,MB,Active,Active - mature - permanent,0,41,na,48,48,,102420MB
+102420,NL,X,X - historical,45,48,7,0,na,,102420NL
+102420,NS,X,X - historical,41,44,10,0,na,,102420NS
+102420,ON,X,X - historical,31,35,17,0,na,,102420ON
+102420,PE,X,X - historical,38,40,0,0,na,,102420PE
+102420,SK,X,X - historical,0,45,na,17,na,,102420SK
+102421,MB,Active,Active - mature - permanent,0,17,na,27,27,,102421MB
+102421,ON,Active,Active - mature - permanent,33,33,56,30,56,,102421ON
+102421,SK,X,X - historical,0,21,na,0,na,,102421SK
+102422,AB,NPD,NPD - future launch,0,0,na,na,2000.0,[WARNING]: no loadin data.,102422AB
+102422,BC,Active,Active - mature - permanent,34,37,0,0,0,,102422BC
+102422,MB,Active,Active - mature - permanent,0,29,na,0,0,,102422MB
+102422,NL,Active,Active - mature - permanent,26,29,0,0,0,,102422NL
+102422,NS,X,X - historical,31,36,0,0,na,,102422NS
+102422,ON,Active,Active - mature - permanent,26,31,14,2,14,,102422ON
+102422,PE,Active,Active - mature - permanent,30,34,0,0,0,,102422PE
+102422,SK,Active,Active - mature - permanent,0,31,na,0,0,,102422SK
+102423,BC,X,X - historical,43,46,2,0,na,,102423BC
+102423,MB,Active,Active - mature - permanent,0,41,na,39,39,,102423MB
+102423,NS,Active,Active - mature - permanent,41,44,61,62,61,,102423NS
+102423,ON,Active,Active - mature - permanent,31,35,49,39,49,,102423ON
+102423,PE,X,X - historical,38,40,0,0,na,,102423PE
+102423,SK,X,X - historical,0,45,na,1,na,,102423SK
+102424,AB,NPD,NPD - future launch,0,0,na,na,100.0,,102424AB
+102424,MB,Active,Active - mature - exiting,0,24,na,65,65,,102424MB
+102424,ON,Active,Active - mature - exiting,27,31,139,7,139,,102424ON
+102424,PE,Active,Active - mature - exiting,26,28,37,26,26,,102424PE
+102424,SK,X,X - historical,0,23,na,3,na,,102424SK
+102428,MB,Active,Active - mature - permanent,0,19,na,57,57,,102428MB
+102428,NL,X,X - historical,25,28,7,0,na,,102428NL
+102428,ON,Active,Active - mature - permanent,29,29,22,21,22,,102428ON
+102428,SK,X,X - historical,0,21,na,0,na,,102428SK
+102430,MB,Active,Active - mature - permanent,0,19,na,49,49,,102430MB
+102430,NL,X,X - historical,25,28,1,0,na,,102430NL
+102430,ON,Active,Active - mature - permanent,29,29,12,11,12,,102430ON
+102430,SK,X,X - historical,0,21,na,0,na,,102430SK
+102436,AB,Active,Active - mature - exiting,18,25,109,2494,109,,102436AB
+102436,BC,Active,Active - mature - exiting,28,30,1,2287,1,,102436BC
+102436,MB,Active,Active - mature - exiting,0,18,na,286,286,,102436MB
+102436,NL,Active,Active - mature - exiting,26,29,327,37,37,,102436NL
+102436,ON,Active,Active - mature - exiting,21,30,0,12335,0,,102436ON
+102436,PE,Active,Active - mature - exiting,23,26,218,42,42,,102436PE
+102436,SK,Active,Active - mature - exiting,0,27,na,200,200,,102436SK
+102437,AB,Active,Active - mature - exiting,21,25,1,3105,1,,102437AB
+102437,BC,Active,Active - NPD - exiting,0,12,na,806,na,[ERROR]: Unable to fc; check baseline.,102437BC
+102437,MB,Active,Active - mature - exiting,0,31,na,268,268,,102437MB
+102437,NB,Active,Active - mature - exiting,13,16,189,174,120.0,,102437NB
+102437,NL,Active,Active - mature - exiting,26,29,232,16,16,,102437NL
+102437,NS,Active,Active - NPD - exiting,0,6,na,517,na,[ERROR]: Unable to fc; check baseline.,102437NS
+102437,ON,Active,Active - mature - exiting,14,31,9,4977,9,,102437ON
+102437,SK,Active,Active - mature - exiting,0,32,na,150,150,,102437SK
+102438,AB,Active,Active - mature - exiting,29,34,638,319,638,,102438AB
+102438,MB,Active,Active - mature - exiting,0,31,na,188,188,,102438MB
+102438,NL,Active,Active - mature - exiting,22,24,130,8,8,,102438NL
+102438,NS,Active,Active - NPD - exiting,0,6,na,328,na,[ERROR]: Unable to fc; check baseline.,102438NS
+102438,ON,Active,Active - mature - exiting,25,30,0,3032,0,,102438ON
+102438,SK,Active,Active - mature - exiting,0,32,na,88,88,,102438SK
+102439,MB,Active,Active - mature - permanent,0,28,na,0,0,,102439MB
+102439,NS,X,X - historical,41,44,0,0,na,,102439NS
+102439,ON,Active,Active - mature - permanent,21,21,41,43,41,,102439ON
+102439,SK,Active,Active - mature - permanent,0,30,na,17,17,,102439SK
+102444,QC,X,X - historical,33,34,1,0,na,,102444QC
+102447,QC,Active,Active - mature - exiting,34,36,348,399,348,,102447QC
+102448,QC,Active,Active - NPD - exiting,7,9,406,482,406,,102448QC
+102456,QC,X,X - historical,33,34,4,0,na,,102456QC
+102474,AB,Active,Active - mature - exiting,22,25,36,0,36,,102474AB
+102474,MB,Active,Active - mature - exiting,0,21,na,20,20,,102474MB
+102474,ON,Active,Active - mature - exiting,16,16,87,130,87,,102474ON
+102474,SK,X,X - historical,0,21,na,5,na,,102474SK
+102475,BC,X,X - historical,30,32,0,0,na,,102475BC
+102475,MB,X,X - historical,0,20,na,0,na,,102475MB
+102475,NS,X,X - historical,29,32,0,0,na,,102475NS
+102475,PE,X,X - historical,29,30,9,0,na,,102475PE
+102475,SK,X,X - historical,0,23,na,0,na,,102475SK
+102477,MB,X,X - historical,0,20,na,7,na,,102477MB
+102477,ON,X,X - historical,21,21,0,0,na,,102477ON
+102477,SK,X,X - historical,0,19,na,1,na,,102477SK
+102478,AB,X,X - historical,25,28,10,0,na,,102478AB
+102478,MB,X,X - historical,0,17,na,3,na,,102478MB
+102478,ON,X,X - historical,20,20,4,3,na,,102478ON
+102478,SK,X,X - historical,0,19,na,4,na,,102478SK
+102479,AB,X,X - historical,24,28,3,0,na,,102479AB
+102479,MB,X,X - historical,0,20,na,22,na,,102479MB
+102479,ON,X,X - historical,21,21,1,1,na,,102479ON
+102479,SK,X,X - historical,0,21,na,1,na,,102479SK
+102480,AB,X,X - historical,25,28,2,0,na,,102480AB
+102480,ON,Active,Active - mature - permanent,16,16,11,10,11,,102480ON
+102486,AB,Active,Active - mature - permanent,12,15,65,23,65,,102486AB
+102486,MB,NPD,NPD - late launch,0,0,na,na,20.0,Late launch; pushing.[WARNING]: no loadin data.,102486MB
+102486,SK,X,X - never shipped,0,0,na,na,na,,102486SK
+102491,AB,X,X - historical,27,30,49,0,na,,102491AB
+102491,MB,Active,Active - mature - permanent,0,16,na,44,44,,102491MB
+102491,ON,Active,Active - mature - permanent,16,16,3,2,3,,102491ON
+102491,SK,X,X - historical,0,18,na,0,na,,102491SK
+102492,AB,X,X - historical,27,30,22,0,na,,102492AB
+102492,MB,Active,Active - mature - permanent,0,16,na,45,45,,102492MB
+102492,ON,Active,Active - mature - permanent,16,16,4,4,4,,102492ON
+102492,SK,X,X - historical,0,18,na,0,na,,102492SK
+102495,MB,Active,Active - mature - permanent,0,19,na,44,44,,102495MB
+102495,ON,Active,Active - mature - exiting,16,16,171,196,171,,102495ON
+102495,SK,X,X - never shipped,0,0,na,na,na,,102495SK
+102496,AB,Active,Active - mature - exiting,25,28,56,1,56,,102496AB
+102496,MB,Active,Active - mature - exiting,0,21,na,27,27,,102496MB
+102496,SK,Active,Active - mature - exiting,0,21,na,51,51,,102496SK
+102502,AB,Active,Active - mature - exiting,17,21,63,5,63,,102502AB
+102502,MB,Active,Active - mature - permanent,0,19,na,1,1,,102502MB
+102502,ON,Active,Active - mature - exiting,19,22,94,99,94,,102502ON
+102502,PE,Active,Active - mature - permanent,18,20,46,11,11,,102502PE
+102502,SK,X,X - historical,0,9,na,1,na,,102502SK
+102503,AB,X,X - historical,28,31,0,0,na,,102503AB
+102513,AB,Active,Active - mature - permanent,11,14,42,12,42,,102513AB
+102513,MB,NPD,NPD - late launch,0,0,na,na,25.0,Late launch; pushing.[WARNING]: no loadin data.,102513MB
+102513,ON,Active,Active - mature - permanent,20,20,13,16,13,,102513ON
+102513,SK,X,X - never shipped,0,0,na,na,na,,102513SK
+102514,AB,Active,Active - mature - permanent,11,14,54,29,54,,102514AB
+102514,MB,NPD,NPD - late launch,0,0,na,na,25.0,Late launch; pushing.[WARNING]: no loadin data.,102514MB
+102514,ON,Active,Active - mature - permanent,20,20,5,4,5,,102514ON
+102514,SK,X,X - never shipped,0,0,na,na,na,,102514SK
+102523,AB,Active,Active - NPD - permanent,4,7,23,106,23,,102523AB
+102523,MB,NPD,NPD - late launch,0,0,na,na,25.0,Late launch; pushing.[WARNING]: no loadin data.,102523MB
+102523,ON,Active,Active - NPD - permanent,0,9,na,60,na,[ERROR]: Unable to fc; check baseline.,102523ON
+102523,SK,X,X - never shipped,0,0,na,na,na,,102523SK
+102524,AB,NPD,NPD - future launch,0,0,na,na,100.0,,102524AB
+102524,BC,NPD,NPD - future launch,0,0,na,na,250.0,,102524BC
+102524,MB,NPD,NPD - late launch,0,0,na,na,40.0,Late launch; pushing.[WARNING]: no loadin data.,102524MB
+102524,NL,NPD,NPD - future launch,0,0,na,na,90.0,,102524NL
+102524,ON,NPD,NPD - late launch,0,0,na,na,120.0,Late launch; pushing.,102524ON
+102524,SK,NPD,NPD - late launch,0,0,na,na,10.0,Late launch; pushing.[WARNING]: no loadin data.,102524SK
+102526,MB,NPD,NPD - future launch,0,0,na,na,40.0,[WARNING]: no loadin data.,102526MB
+102526,ON,NPD,NPD - future launch,0,0,na,na,72.0,[WARNING]: no loadin data.,102526ON
+102526,SK,NPD,NPD - future launch,0,0,na,na,10.0,[WARNING]: no loadin data.,102526SK
+102528,AB,NPD,NPD - future launch,0,0,na,na,300.0,,102528AB
+102528,MB,NPD,NPD - future launch,0,0,na,na,40.0,[WARNING]: no loadin data.,102528MB
+102528,ON,NPD,NPD - future launch,0,0,na,na,100.0,[WARNING]: no loadin data.,102528ON
+102528,SK,NPD,NPD - future launch,0,0,na,na,40.0,[WARNING]: no loadin data.,102528SK
+102531,AB,NPD,NPD - future launch,0,0,na,na,200.0,,102531AB
+102531,MB,NPD,NPD - future launch,0,0,na,na,60.0,[WARNING]: no loadin data.,102531MB
+102531,NL,Active,Active - NPD - exiting,0,7,na,115,115,,102531NL
+102531,ON,Active,Active - NPD - exiting,9,9,270,274,270,,102531ON
+102531,SK,NPD,NPD - future launch,0,0,na,na,40.0,[WARNING]: no loadin data.,102531SK
+102532,BC,NPD,NPD - future launch,0,0,na,na,300.0,,102532BC
+102532,MB,NPD,NPD - future launch,0,0,na,na,170.0,,102532MB
+102532,NL,Active,Active - NPD - exiting,0,2,na,na,na,[ERROR]: Unable to fc; check baseline.,102532NL
+102532,ON,NPD,NPD - future launch,0,0,na,na,300.0,,102532ON
+102532,SK,NPD,NPD - future launch,0,0,na,na,40.0,[WARNING]: no loadin data.,102532SK
+102533,AB,Active,Active - NPD - exiting,0,7,na,291,na,[ERROR]: Unable to fc; check baseline.,102533AB
+102533,MB,NPD,NPD - future launch,0,0,na,na,120.0,[WARNING]: no loadin data.,102533MB
+102533,NL,Active,Active - NPD - exiting,0,7,na,44,44,,102533NL
+102533,ON,Active,Active - NPD - exiting,0,9,na,179,na,[ERROR]: Unable to fc; check baseline.,102533ON
+102533,SK,NPD,NPD - future launch,0,0,na,na,40.0,[WARNING]: no loadin data.,102533SK
+102534,AB,NPD,NPD - future launch,0,0,na,na,200.0,,102534AB
+102534,MB,NPD,NPD - late launch,0,0,na,na,60.0,Late launch; pushing.[WARNING]: no loadin data.,102534MB
+102534,NL,Active,Active - NPD - exiting,4,8,89,99,99,,102534NL
+102534,ON,Active,Active - NPD - exiting,5,5,447,510,447,,102534ON
+102534,SK,NPD,NPD - late launch,0,0,na,na,40.0,Late launch; pushing.[WARNING]: no loadin data.,102534SK
+102535,AB,NPD,NPD - future launch,0,0,na,na,330.0,,102535AB
+102535,MB,NPD,NPD - late launch,0,0,na,na,170.0,Late launch; pushing.[WARNING]: no loadin data.,102535MB
+102535,NL,Active,Active - NPD - exiting,0,4,na,74,74,,102535NL
+102535,ON,NPD,NPD - future launch,0,0,na,na,300.0,,102535ON
+102535,PE,Active,Active - NPD - permanent,0,4,na,197,197,,102535PE
+102535,SK,NPD,NPD - late launch,0,0,na,na,40.0,Late launch; pushing.[WARNING]: no loadin data.,102535SK
+102536,AB,Active,Active - NPD - exiting,2,5,na,648,na,[ERROR]: Unable to fc; check baseline.,102536AB
+102536,BC,Active,Active - NPD - exiting,6,8,234,414,234,,102536BC
+102536,MB,NPD,NPD - future launch,0,0,na,na,120.0,,102536MB
+102536,NL,Active,Active - NPD - exiting,0,5,na,108,108,,102536NL
+102536,ON,Active,Active - NPD - exiting,2,6,na,553,na,[ERROR]: Unable to fc; check baseline.,102536ON
+102536,SK,Active,Active - NPD - exiting,0,2,na,na,na,[ERROR]: Unable to fc; check baseline.,102536SK
+102551,AB,NPD,NPD - late launch,0,0,na,na,378.0,Late launch; pushing.,102551AB
+102551,BC,NPD,NPD - future launch,0,0,na,na,750.0,,102551BC
+102551,MB,Active,Active - NPD - permanent,0,7,na,34,34,,102551MB
+102551,ON,Active,Active - NPD - exiting,9,9,129,124,129,,102551ON
+102551,SK,X,X - historical,0,6,na,20,na,,102551SK
+102552,MB,NPD,NPD - late launch,0,0,na,na,25.0,Late launch; pushing.[WARNING]: no loadin data.,102552MB
+102552,ON,NPD,NPD - late launch,0,0,na,na,400.0,Late launch; pushing.,102552ON
+102554,BC,NPD,NPD - future launch,0,0,na,na,2500.0,,102554BC
+102554,MB,NPD,NPD - future launch,0,0,na,na,20.0,[WARNING]: no loadin data.,102554MB
+102554,SK,NPD,NPD - future launch,0,0,na,na,10.0,[WARNING]: no loadin data.,102554SK
+102555,BC,Active,Active - NPD - exiting,10,12,560,432,560,,102555BC
+102555,MB,Active,Active - NPD - permanent,0,7,na,55,55,,102555MB
+102555,ON,Active,Active - NPD - exiting,10,10,247,281,247,,102555ON
+102555,SK,X,X - never shipped,0,0,na,na,na,,102555SK
+102556,BC,NPD,NPD - future launch,0,0,na,na,2500.0,,102556BC
+102556,ON,NPD,NPD - late launch,0,0,na,na,840.0,Late launch; pushing.,102556ON
+102556,PE,NPD,NPD - late launch,0,0,na,na,80.0,Late launch; pushing.[WARNING]: no loadin data.,102556PE
+102556,SK,NPD,NPD - future launch,0,0,na,na,10.0,[WARNING]: no loadin data.,102556SK
+102562,AB,Active,Active - NPD - exiting,2,6,na,1505,na,[ERROR]: Unable to fc; check baseline.,102562AB
+102562,BC,Active,Active - NPD - exiting,6,8,459,1031,459,,102562BC
+102562,MB,NPD,NPD - future launch,0,0,na,na,80.0,,102562MB
+102562,NL,Active,Active - NPD - exiting,0,7,na,71,71,,102562NL
+102562,ON,Active,Active - NPD - exiting,9,9,314,506,314,,102562ON
+102562,SK,Active,Active - NPD - exiting,0,6,na,116,116,,102562SK
+102563,AB,Active,Active - NPD - exiting,2,6,na,1109,na,[ERROR]: Unable to fc; check baseline.,102563AB
+102563,BC,NPD,NPD - future launch,0,0,na,na,788.0,,102563BC
+102563,MB,NPD,NPD - late launch,0,0,na,na,85.0,Late launch; pushing.[WARNING]: no loadin data.,102563MB
+102563,NS,Active,Active - NPD - exiting,0,4,na,247,na,[ERROR]: Unable to fc; check baseline.,102563NS
+102563,ON,Active,Active - NPD - exiting,5,5,691,766,691,,102563ON
+102563,PE,Active,Active - NPD - permanent,0,6,na,151,151,,102563PE
+102563,SK,Active,Active - NPD - exiting,0,2,na,na,na,[ERROR]: Unable to fc; check baseline.,102563SK
+102594,AB,Active,Active - NPD - exiting,0,3,na,588,na,[ERROR]: Unable to fc; check baseline.,102594AB
+102594,BC,NPD,NPD - future launch,0,0,na,na,680.0,,102594BC
+102594,MB,Active,Active - NPD - exiting,0,3,na,38,38,,102594MB
+102594,NL,NPD,NPD - future launch,0,0,na,na,100.0,,102594NL
+102594,ON,NPD,NPD - late launch,0,0,na,na,1400.0,Late launch; pushing.,102594ON
+102594,SK,Active,Active - NPD - exiting,0,1,na,na,40.0,,102594SK
+102595,AB,Active,Active - NPD - exiting,0,3,na,588,na,[ERROR]: Unable to fc; check baseline.,102595AB
+102595,MB,Active,Active - NPD - exiting,0,7,na,35,35,,102595MB
+102595,NL,Active,Active - NPD - exiting,0,4,na,70,70,,102595NL
+102595,NS,Active,Active - NPD - exiting,0,8,na,118,na,[ERROR]: Unable to fc; check baseline.,102595NS
+102595,ON,NPD,NPD - late launch,0,0,na,na,1400.0,Late launch; pushing.,102595ON
+102595,SK,Active,Active - NPD - exiting,0,6,na,123,123,,102595SK
+102600,AB,Active,Active - NPD - exiting,0,3,na,2010,600.0,,102600AB
+102600,BC,Active,Active - NPD - exiting,5,7,512,1545,512,,102600BC
+102600,MB,NPD,NPD - late launch,0,0,na,na,60.0,Late launch; pushing.[WARNING]: no loadin data.,102600MB
+102600,ON,Active,Active - NPD - exiting,4,9,746,863,746,,102600ON
+102600,SK,Active,Active - NPD - exiting,0,10,na,15,15,,102600SK
+102602,AB,Active,Active - NPD - exiting,0,3,na,1862,550.0,,102602AB
+102602,BC,Active,Active - NPD - exiting,5,7,433,969,433,,102602BC
+102602,MB,Active,Active - NPD - exiting,0,5,na,8,8,,102602MB
+102602,NL,Active,Active - NPD - exiting,0,4,na,138,138,,102602NL
+102602,ON,Active,Active - NPD - exiting,9,9,641,828,641,,102602ON
+102602,SK,Active,Active - NPD - exiting,0,9,na,76,76,,102602SK
+102604,AB,Active,Active - NPD - permanent,0,2,na,na,na,[ERROR]: Unable to fc; check baseline.,102604AB
+102604,MB,NPD,NPD - late launch,0,0,na,na,60.0,Late launch; pushing.[WARNING]: no loadin data.,102604MB
+102604,NL,NPD,NPD - late launch,0,0,na,na,100.0,Late launch; pushing.[WARNING]: no loadin data.,102604NL
+102604,SK,Active,Active - NPD - permanent,0,2,na,na,na,[ERROR]: Unable to fc; check baseline.,102604SK
+102606,BC,NPD,NPD - future launch,0,0,na,na,20.0,,102606BC
+102606,MB,NPD,NPD - future launch,0,0,na,na,20.0,[WARNING]: no loadin data.,102606MB
+102606,ON,NPD,NPD - future launch,0,0,na,na,70.0,[WARNING]: no loadin data.,102606ON
+102606,SK,NPD,NPD - future launch,0,0,na,na,10.0,[WARNING]: no loadin data.,102606SK
+102612,QC,NPD,NPD - future launch,0,0,na,na,400.0,,102612QC
+102613,QC,NPD,NPD - future launch,0,0,na,na,400.0,,102613QC
+102616,QC,Active,Active - NPD - exiting,6,7,190,361,190,,102616QC
+102617,AB,NPD,NPD - future launch,0,0,na,na,50.0,,102617AB
+102617,MB,Active,Active - NPD - exiting,0,7,na,35,35,,102617MB
+102617,NL,Active,Active - NPD - exiting,4,8,17,49,49,,102617NL
+102617,NS,Active,Active - NPD - exiting,0,12,na,24,na,[ERROR]: Unable to fc; check baseline.,102617NS
+102617,ON,NPD,NPD - future launch,0,0,na,na,500.0,,102617ON
+102617,SK,X,X - historical,0,6,na,26,na,,102617SK
+102618,AB,NPD,NPD - future launch,0,0,na,na,40.0,,102618AB
+102618,MB,Active,Active - NPD - permanent,0,7,na,30,30,,102618MB
+102618,ON,Active,Active - NPD - permanent,6,9,19,21,19,,102618ON
+102618,SK,X,X - historical,0,6,na,20,na,,102618SK
+102619,AB,NPD,NPD - future launch,0,0,na,na,40.0,,102619AB
+102619,MB,Active,Active - NPD - permanent,0,7,na,31,31,,102619MB
+102619,ON,Active,Active - NPD - permanent,0,9,na,17,na,[ERROR]: Unable to fc; check baseline.,102619ON
+102619,SK,X,X - historical,0,6,na,20,na,,102619SK
+102620,AB,Active,Active - NPD - exiting,1,5,na,432,na,[ERROR]: Unable to fc; check baseline.,102620AB
+102620,BC,Active,Active - NPD - exiting,4,6,416,1210,416,,102620BC
+102620,MB,NPD,NPD - late launch,0,0,na,na,100.0,Late launch; pushing.[WARNING]: no loadin data.,102620MB
+102620,NL,Active,Active - NPD - exiting,0,4,na,144,144,,102620NL
+102620,ON,NPD,NPD - future launch,0,0,na,na,550.0,,102620ON
+102620,PE,Active,Active - NPD - exiting,0,6,na,119,119,,102620PE
+102620,SK,Active,Active - NPD - exiting,0,2,na,na,na,[ERROR]: Unable to fc; check baseline.,102620SK
+102625,AB,Active,Active - NPD - permanent,2,6,na,870,na,[ERROR]: Unable to fc; check baseline.,102625AB
+102625,MB,Active,Active - NPD - permanent,0,7,na,178,178,,102625MB
+102625,ON,Active,Active - NPD - permanent,5,9,303,1135,303,,102625ON
+102625,SK,X,X - historical,0,6,na,67,na,,102625SK
+102626,AB,Active,Active - NPD - permanent,2,6,na,792,na,[ERROR]: Unable to fc; check baseline.,102626AB
+102626,MB,Active,Active - NPD - permanent,0,7,na,136,136,,102626MB
+102626,ON,Active,Active - NPD - permanent,9,9,528,636,528,,102626ON
+102626,SK,X,X - historical,0,6,na,73,na,,102626SK
+102627,AB,Active,Active - NPD - permanent,3,6,516,828,516,,102627AB
+102627,BC,Active,Active - NPD - permanent,2,4,na,2470,na,[ERROR]: Unable to fc; check baseline.,102627BC
+102627,MB,Active,Active - NPD - permanent,0,7,na,86,86,,102627MB
+102627,ON,Active,Active - NPD - permanent,10,10,186,205,186,,102627ON
+102627,SK,X,X - historical,0,6,na,40,na,,102627SK
+102628,AB,Active,Active - NPD - permanent,3,6,511,828,511,,102628AB
+102628,MB,Active,Active - NPD - permanent,0,7,na,89,89,,102628MB
+102628,ON,Active,Active - NPD - permanent,9,10,264,284,264,,102628ON
+102628,SK,X,X - historical,0,6,na,40,na,,102628SK
+102629,AB,Active,Active - NPD - exiting,0,6,na,1015,na,[ERROR]: Unable to fc; check baseline.,102629AB
+102629,MB,NPD,NPD - late launch,0,0,na,na,100.0,Late launch; pushing.[WARNING]: no loadin data.,102629MB
+102629,NL,X,X - historical,0,8,na,624,na,,102629NL
+102629,ON,Active,Active - NPD - exiting,7,5,508,467,508,,102629ON
+102629,SK,Active,Active - NPD - exiting,0,6,na,129,129,,102629SK
+102630,AB,Active,Active - NPD - exiting,2,6,na,900,na,[ERROR]: Unable to fc; check baseline.,102630AB
+102630,BC,Active,Active - NPD - exiting,0,2,na,na,na,[ERROR]: Unable to fc; check baseline.,102630BC
+102630,MB,NPD,NPD - late launch,0,0,na,na,100.0,Late launch; pushing.[WARNING]: no loadin data.,102630MB
+102630,ON,Active,Active - NPD - exiting,5,5,311,400,311,,102630ON
+102630,SK,Active,Active - NPD - exiting,0,6,na,129,129,,102630SK
+102631,AB,Active,Active - NPD - exiting,1,5,na,1098,na,[ERROR]: Unable to fc; check baseline.,102631AB
+102631,BC,Active,Active - NPD - exiting,0,2,na,na,na,[ERROR]: Unable to fc; check baseline.,102631BC
+102631,MB,NPD,NPD - late launch,0,0,na,na,100.0,Late launch; pushing.[WARNING]: no loadin data.,102631MB
+102631,NL,X,X - historical,0,2,na,na,na,,102631NL
+102631,SK,Active,Active - NPD - exiting,0,2,na,na,na,[ERROR]: Unable to fc; check baseline.,102631SK
+102635,QC,Active,Active - NPD - exiting,8,9,455,664,455,,102635QC
+102643,MB,NPD,NPD - late launch,0,0,na,na,70.0,Late launch; pushing.[WARNING]: no loadin data.,102643MB
+102643,ON,Active,Active - NPD - exiting,9,9,198,220,198,,102643ON
+102643,SK,X,X - never shipped,0,0,na,na,na,,102643SK
+102644,AB,Active,Active - NPD - exiting,0,3,na,882,na,[ERROR]: Unable to fc; check baseline.,102644AB
+102644,MB,NPD,NPD - late launch,0,0,na,na,50.0,Late launch; pushing.[WARNING]: no loadin data.,102644MB
+102644,NL,NPD,NPD - future launch,0,0,na,na,120.0,,102644NL
+102644,ON,NPD,NPD - future launch,0,0,na,na,150.0,,102644ON
+102644,PE,NPD,NPD - late launch,0,0,na,na,125.0,Late launch; pushing.[WARNING]: no loadin data.,102644PE
+102644,SK,X,X - never shipped,0,0,na,na,na,,102644SK
+102652,QC,Active,Active - NPD - exiting,0,7,na,145,na,[ERROR]: Unable to fc; check baseline.,102652QC
+102666,MB,NPD,NPD - future launch,0,0,na,na,180.0,[WARNING]: no loadin data.,102666MB
+102666,ON,NPD,NPD - late launch,0,0,na,na,1400.0,Late launch; pushing.,102666ON
+102666,SK,NPD,NPD - future launch,0,0,na,na,180.0,[WARNING]: no loadin data.,102666SK
+102667,AB,Active,Active - NPD - exiting,0,6,na,571,750.0,,102667AB
+102667,BC,Active,Active - NPD - exiting,0,1,na,na,550.0,,102667BC
+102667,MB,NPD,NPD - future launch,0,0,na,na,180.0,,102667MB
+102667,NL,NPD,NPD - future launch,0,0,na,na,150.0,,102667NL
+102667,ON,NPD,NPD - future launch,0,0,na,na,1400.0,,102667ON
+102667,PE,Active,Active - NPD - permanent,0,8,na,99,99,,102667PE
+102667,SK,NPD,NPD - late launch,0,0,na,na,180.0,Late launch; pushing.[WARNING]: no loadin data.,102667SK
+102668,AB,Active,Active - NPD - permanent,0,3,na,2425,750.0,,102668AB
+102668,BC,Active,Active - NPD - permanent,1,3,na,2646,na,[ERROR]: Unable to fc; check baseline.,102668BC
+102668,MB,NPD,NPD - late launch,0,0,na,na,180.0,Late launch; pushing.[WARNING]: no loadin data.,102668MB
+102668,ON,Active,Active - NPD - permanent,7,9,398,690,398,,102668ON
+102668,PE,Active,Active - NPD - permanent,0,7,na,14,14,,102668PE
+102668,SK,NPD,NPD - late launch,0,0,na,na,180.0,Late launch; pushing.[WARNING]: no loadin data.,102668SK
+102671,AB,NPD,NPD - future launch,0,0,na,na,100.0,,102671AB
+102671,MB,NPD,NPD - future launch,0,0,na,na,25.0,[WARNING]: no loadin data.,102671MB
+102671,SK,NPD,NPD - future launch,0,0,na,na,8.0,[WARNING]: no loadin data.,102671SK
+102682,AB,Active,Active - NPD - exiting,0,6,na,1206,na,[ERROR]: Unable to fc; check baseline.,102682AB
+102682,BC,Active,Active - NPD - exiting,1,3,na,5880,na,[ERROR]: Unable to fc; check baseline.,102682BC
+102682,MB,NPD,NPD - future launch,0,0,na,na,300.0,,102682MB
+102682,NL,Active,Active - NPD - exiting,5,8,146,198,198,,102682NL
+102682,ON,Active,Active - NPD - exiting,5,9,207,1563,207,,102682ON
+102682,PE,Active,Active - NPD - permanent,0,8,na,114,114,,102682PE
+102682,SK,NPD,NPD - late launch,0,0,na,na,300.0,Late launch; pushing.[WARNING]: no loadin data.,102682SK
+102683,AB,Active,Active - NPD - exiting,0,4,na,1164,na,[ERROR]: Unable to fc; check baseline.,102683AB
+102683,MB,NPD,NPD - late launch,0,0,na,na,300.0,Late launch; pushing.[WARNING]: no loadin data.,102683MB
+102683,ON,Active,Active - NPD - exiting,0,9,na,4959,na,[ERROR]: Unable to fc; check baseline.,102683ON
+102683,PE,Active,Active - NPD - permanent,0,7,na,14,14,,102683PE
+102683,SK,NPD,NPD - late launch,0,0,na,na,300.0,Late launch; pushing.[WARNING]: no loadin data.,102683SK
+102704,MB,NPD,NPD - future launch,0,0,na,na,70.0,[WARNING]: no loadin data.,102704MB
+102704,NL,NPD,NPD - future launch,0,0,na,na,80.0,,102704NL
+102704,ON,NPD,NPD - future launch,0,0,na,na,150.0,,102704ON
+102704,PE,NPD,NPD - future launch,0,0,na,na,125.0,,102704PE
+102704,SK,NPD,NPD - future launch,0,0,na,na,15.0,[WARNING]: no loadin data.,102704SK
+102721,BC,NPD,NPD - future launch,0,0,na,na,450.0,,102721BC
+102721,MB,NPD,NPD - future launch,0,0,na,na,20.0,[WARNING]: no loadin data.,102721MB
+102721,ON,NPD,NPD - future launch,0,0,na,na,360.0,[WARNING]: no loadin data.,102721ON
+102721,SK,NPD,NPD - future launch,0,0,na,na,10.0,[WARNING]: no loadin data.,102721SK
+102722,BC,NPD,NPD - future launch,0,0,na,na,450.0,,102722BC
+102722,MB,NPD,NPD - future launch,0,0,na,na,20.0,[WARNING]: no loadin data.,102722MB
+102722,SK,NPD,NPD - future launch,0,0,na,na,10.0,[WARNING]: no loadin data.,102722SK
+102727,AB,NPD,NPD - future launch,0,0,na,na,340.0,,102727AB
+102727,BC,NPD,NPD - future launch,0,0,na,na,400.0,,102727BC
+102727,MB,NPD,NPD - future launch,0,0,na,na,10.0,[WARNING]: no loadin data.,102727MB
+102727,ON,NPD,NPD - future launch,0,0,na,na,1026.0,,102727ON
+102727,SK,NPD,NPD - future launch,0,0,na,na,5.0,[WARNING]: no loadin data.,102727SK
+102731,AB,NPD,NPD - future launch,0,0,na,na,750.0,,102731AB
+102731,MB,NPD,NPD - future launch,0,0,na,na,180.0,[WARNING]: no loadin data.,102731MB
+102731,ON,NPD,NPD - late launch,0,0,na,na,1400.0,Late launch; pushing.,102731ON
+102731,SK,NPD,NPD - future launch,0,0,na,na,180.0,[WARNING]: no loadin data.,102731SK
+102732,BC,NPD,NPD - future launch,0,0,na,na,550.0,,102732BC
+102732,MB,NPD,NPD - future launch,0,0,na,na,110.0,[WARNING]: no loadin data.,102732MB
+102732,ON,NPD,NPD - future launch,0,0,na,na,660.0,[WARNING]: no loadin data.,102732ON
+102732,SK,NPD,NPD - future launch,0,0,na,na,90.0,[WARNING]: no loadin data.,102732SK
+102733,AB,NPD,NPD - future launch,0,0,na,na,750.0,,102733AB
+102733,BC,NPD,NPD - future launch,0,0,na,na,550.0,,102733BC
+102733,MB,NPD,NPD - future launch,0,0,na,na,110.0,[WARNING]: no loadin data.,102733MB
+102733,ON,NPD,NPD - future launch,0,0,na,na,550.0,[WARNING]: no loadin data.,102733ON
+102733,SK,NPD,NPD - late launch,0,0,na,na,90.0,Late launch; pushing.[WARNING]: no loadin data.,102733SK
+102734,AB,NPD,NPD - future launch,0,0,na,na,1700.0,,102734AB
+102734,BC,NPD,NPD - future launch,0,0,na,na,1950.0,,102734BC
+102734,MB,NPD,NPD - future launch,0,0,na,na,150.0,[WARNING]: no loadin data.,102734MB
+102734,ON,NPD,NPD - future launch,0,0,na,na,5000.0,,102734ON
+102734,SK,NPD,NPD - future launch,0,0,na,na,150.0,[WARNING]: no loadin data.,102734SK
+102735,AB,NPD,NPD - future launch,0,0,na,na,1700.0,,102735AB
+102735,BC,NPD,NPD - future launch,0,0,na,na,1950.0,,102735BC
+102735,MB,NPD,NPD - future launch,0,0,na,na,150.0,[WARNING]: no loadin data.,102735MB
+102735,ON,NPD,NPD - future launch,0,0,na,na,5000.0,,102735ON
+102735,SK,NPD,NPD - future launch,0,0,na,na,150.0,[WARNING]: no loadin data.,102735SK
+102736,AB,NPD,NPD - future launch,0,0,na,na,750.0,,102736AB
+102736,BC,NPD,NPD - future launch,0,0,na,na,550.0,,102736BC
+102736,MB,NPD,NPD - future launch,0,0,na,na,110.0,[WARNING]: no loadin data.,102736MB
+102736,ON,NPD,NPD - future launch,0,0,na,na,550.0,[WARNING]: no loadin data.,102736ON
+102736,SK,NPD,NPD - future launch,0,0,na,na,90.0,[WARNING]: no loadin data.,102736SK
+102737,BC,NPD,NPD - future launch,0,0,na,na,550.0,,102737BC
+102737,MB,NPD,NPD - future launch,0,0,na,na,110.0,[WARNING]: no loadin data.,102737MB
+102737,ON,NPD,NPD - future launch,0,0,na,na,550.0,[WARNING]: no loadin data.,102737ON
+102737,SK,NPD,NPD - future launch,0,0,na,na,90.0,[WARNING]: no loadin data.,102737SK
+102740,MB,NPD,NPD - future launch,0,0,na,na,25.0,[WARNING]: no loadin data.,102740MB
+102740,SK,NPD,NPD - future launch,0,0,na,na,8.0,[WARNING]: no loadin data.,102740SK
+102741,MB,NPD,NPD - future launch,0,0,na,na,40.0,[WARNING]: no loadin data.,102741MB
+102741,NL,NPD,NPD - future launch,0,0,na,na,100.0,,102741NL
+102741,SK,NPD,NPD - future launch,0,0,na,na,15.0,[WARNING]: no loadin data.,102741SK
+102745,MB,NPD,NPD - future launch,0,0,na,na,40.0,[WARNING]: no loadin data.,102745MB
+102745,NL,NPD,NPD - future launch,0,0,na,na,100.0,,102745NL
+102745,SK,NPD,NPD - future launch,0,0,na,na,10.0,[WARNING]: no loadin data.,102745SK
+102750,AB,NPD,NPD - future launch,0,0,na,na,800.0,,102750AB
+102752,AB,NPD,NPD - future launch,0,0,na,na,690.0,,102752AB
+102752,BC,NPD,NPD - future launch,0,0,na,na,720.0,,102752BC
+102752,MB,NPD,NPD - future launch,0,0,na,na,250.0,,102752MB
+102752,NL,NPD,NPD - future launch,0,0,na,na,100.0,,102752NL
+102752,SK,NPD,NPD - future launch,0,0,na,na,175.0,,102752SK
+102753,AB,NPD,NPD - future launch,0,0,na,na,220.0,,102753AB
+102753,BC,NPD,NPD - future launch,0,0,na,na,720.0,[WARNING]: no loadin data.,102753BC
+102753,MB,NPD,NPD - future launch,0,0,na,na,20.0,[WARNING]: no loadin data.,102753MB
+102753,ON,NPD,NPD - future launch,0,0,na,na,80.0,,102753ON
+102753,SK,NPD,NPD - future launch,0,0,na,na,7.0,[WARNING]: no loadin data.,102753SK
+102754,AB,NPD,NPD - future launch,0,0,na,na,180.0,,102754AB
+102754,BC,NPD,NPD - future launch,0,0,na,na,180.0,,102754BC
+102754,MB,NPD,NPD - future launch,0,0,na,na,20.0,[WARNING]: no loadin data.,102754MB
+102754,ON,NPD,NPD - future launch,0,0,na,na,1200.0,,102754ON
+102754,SK,NPD,NPD - future launch,0,0,na,na,7.0,[WARNING]: no loadin data.,102754SK
+102755,AB,NPD,NPD - future launch,0,0,na,na,180.0,,102755AB
+102755,BC,NPD,NPD - future launch,0,0,na,na,720.0,[WARNING]: no loadin data.,102755BC
+102755,MB,NPD,NPD - future launch,0,0,na,na,30.0,[WARNING]: no loadin data.,102755MB
+102755,ON,NPD,NPD - future launch,0,0,na,na,80.0,[WARNING]: no loadin data.,102755ON
+102755,SK,NPD,NPD - future launch,0,0,na,na,7.0,[WARNING]: no loadin data.,102755SK
+102756,AB,NPD,NPD - future launch,0,0,na,na,4800.0,[WARNING]: no loadin data.,102756AB
+102756,BC,NPD,NPD - future launch,0,0,na,na,120.0,,102756BC
+102756,MB,NPD,NPD - future launch,0,0,na,na,30.0,[WARNING]: no loadin data.,102756MB
+102756,ON,NPD,NPD - future launch,0,0,na,na,50.0,[WARNING]: no loadin data.,102756ON
+102756,SK,NPD,NPD - future launch,0,0,na,na,7.0,[WARNING]: no loadin data.,102756SK
+102757,MB,NPD,NPD - future launch,0,0,na,na,250.0,,102757MB
+102757,SK,NPD,NPD - future launch,0,0,na,na,175.0,,102757SK
+102758,AB,NPD,NPD - future launch,0,0,na,na,250.0,,102758AB
+102758,BC,NPD,NPD - future launch,0,0,na,na,120.0,,102758BC
+102758,MB,NPD,NPD - future launch,0,0,na,na,40.0,[WARNING]: no loadin data.,102758MB
+102758,ON,NPD,NPD - future launch,0,0,na,na,60.0,[WARNING]: no loadin data.,102758ON
+102758,SK,NPD,NPD - future launch,0,0,na,na,10.0,[WARNING]: no loadin data.,102758SK
+102759,AB,NPD,NPD - future launch,0,0,na,na,250.0,,102759AB
+102759,BC,NPD,NPD - future launch,0,0,na,na,120.0,,102759BC
+102759,MB,NPD,NPD - future launch,0,0,na,na,40.0,[WARNING]: no loadin data.,102759MB
+102759,ON,NPD,NPD - future launch,0,0,na,na,60.0,[WARNING]: no loadin data.,102759ON
+102759,SK,NPD,NPD - future launch,0,0,na,na,10.0,[WARNING]: no loadin data.,102759SK
+102765,BC,NPD,NPD - future launch,0,0,na,na,300.0,,102765BC
+102766,BC,Active,Active - mature - exiting,11,13,168,273,168,,102766BC
+102767,BC,Active,Active - NPD - exiting,10,12,18,1664,18,,102767BC
+102780,BC,NPD,NPD - future launch,0,0,na,na,250.0,,102780BC
+102780,MB,NPD,NPD - future launch,0,0,na,na,40.0,[WARNING]: no loadin data.,102780MB
+102780,ON,NPD,NPD - future launch,0,0,na,na,200.0,[WARNING]: no loadin data.,102780ON
+102780,SK,NPD,NPD - future launch,0,0,na,na,40.0,[WARNING]: no loadin data.,102780SK
+102781,ON,NPD,NPD - late launch,0,0,na,na,400.0,Late launch; pushing.,102781ON
+102781,SK,NPD,NPD - launch now,0,0,na,na,5.0,[WARNING]: no loadin data.,102781SK
+102785,AB,NPD,NPD - future launch,0,0,na,na,1000.0,,102785AB
+102785,MB,NPD,NPD - future launch,0,0,na,na,70.0,,102785MB
+102785,ON,NPD,NPD - future launch,0,0,na,na,3000.0,,102785ON
+102785,SK,NPD,NPD - future launch,0,0,na,na,40.0,[WARNING]: no loadin data.,102785SK
+102786,AB,NPD,NPD - future launch,0,0,na,na,1000.0,,102786AB
+102786,MB,NPD,NPD - future launch,0,0,na,na,70.0,,102786MB
+102786,NL,NPD,NPD - future launch,0,0,na,na,200.0,,102786NL
+102786,ON,NPD,NPD - future launch,0,0,na,na,3000.0,,102786ON
+102786,SK,NPD,NPD - future launch,0,0,na,na,40.0,[WARNING]: no loadin data.,102786SK
+102792,AB,NPD,NPD - future launch,0,0,na,na,600.0,,102792AB
+102792,BC,NPD,NPD - future launch,0,0,na,na,600.0,,102792BC
+102792,MB,NPD,NPD - future launch,0,0,na,na,250.0,,102792MB
+102792,NL,NPD,NPD - future launch,0,0,na,na,100.0,,102792NL
+102792,ON,NPD,NPD - future launch,0,0,na,na,330.0,,102792ON
+102792,SK,NPD,NPD - future launch,0,0,na,na,175.0,,102792SK
+102794,AB,NPD,NPD - future launch,0,0,na,na,450.0,,102794AB
+102794,BC,NPD,NPD - future launch,0,0,na,na,500.0,,102794BC
+102794,MB,NPD,NPD - future launch,0,0,na,na,400.0,,102794MB
+102794,NL,NPD,NPD - future launch,0,0,na,na,150.0,,102794NL
+102794,ON,NPD,NPD - future launch,0,0,na,na,850.0,,102794ON
+102794,SK,NPD,NPD - future launch,0,0,na,na,200.0,,102794SK
+PG03637,QC,Active,Active - mature - exiting,0,87,na,684,na,[ERROR]: Unable to fc; check baseline.,PG03637QC
+PG03742,QC,Active,Active - mature - exiting,0,36,na,1178,na,[ERROR]: Unable to fc; check baseline.,PG03742QC
+PG03743,QC,Active,Active - mature - exiting,0,34,na,4,na,[ERROR]: Unable to fc; check baseline.,PG03743QC
+PG03776,QC,Active,Active - NPD - exiting,0,7,na,7,na,[ERROR]: Unable to fc; check baseline.,PG03776QC
+PG03778,QC,Active,Active - NPD - exiting,0,9,na,10,na,[ERROR]: Unable to fc; check baseline.,PG03778QC
