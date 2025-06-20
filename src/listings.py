@@ -45,7 +45,7 @@ class Listing:
         self.season_start = season_start
 
         self.lifecycle_name = lifecycle_name
-        self.lifecycle_name = lifecycle        
+        self.lifecycle = lifecycle        
         self.lifecycle_start = lifecycle_start
         
         self.promo_name = promo_name
@@ -177,40 +177,78 @@ class Listing:
                 self.cleaned_lors.append(int(lor))
             else:
                 return
-        
 
-    def apply_profile(self):
-        #initially make this specific to seasonality, then generalize.
+
+    def _apply_single_profile(self, profile_df, profile_name, profile_start, repeat=True):
+        # generic internal method to apply all profiles
 
         #for error flags:
-        has_name = not pd.isna(self.season_name)
-        has_profile = self.season is not None
-        has_start = not pd.isna(self.season_start)
+        has_name = not pd.isna(profile_name)
+        has_profile = profile_df is not None
+        has_start = not pd.isna(profile_start)
 
         if not has_name:
             #no profile, exit
             return
         elif has_name and not has_profile:
-            self.addtolog(f"[ERROR]: profile {self.season_name} not defined")
+            self.addtolog(f"[ERROR]: profile {profile_name} not defined")
             return
         elif has_name and not has_start:
-            self.addtolog(f"[WARNING]: no season start; starting at {FCSTART}")
+            self.addtolog(f"[WARNING]: no start for {profile_name}; starting at {FCSTART}")
             self.season_start = FCSTART
 
         adjusted_fc = []
         for fc_week, fcvalue, fctype in self.fc:
-
             if fctype == "loadin":
-                newfc = fcvalue
-            else:
-                diff_weeks = (fc_week - self.season_start).days // 7
-                profile_index = diff_weeks % len(self.season)
-                newfc = fcvalue * self.season.loc[profile_index, self.season_name]
+                adjusted_fc.append((fc_week, fcvalue, fctype))
+                continue
             
-            adjusted_fc.append((fc_week, newfc, fctype))
+            diff_weeks = (fc_week - self.season_start).days // 7
+            
+            if repeat:
+                profile_index = diff_weeks % len(self.season)
+            else:
+                profile_index = diff_weeks
+
+            #handle out-of-range (for non repeating profiles)
+            if profile_index not in profile_df.index:
+                #no changes
+                adjusted_fc.append((fc_week, fcvalue, fctype))
+                continue
+            
+            multiplier = profile_df.loc[profile_index, profile_name]
+            new_fcvalue = fcvalue * multiplier
+            adjusted_fc.append((fc_week, new_fcvalue, fctype))
 
         self.fc = adjusted_fc
 
+
+    def apply_profile(self):
+        #seasonality (repeating)
+        self._apply_single_profile(
+            profile_df = self.season,
+            profile_name = self.season_name,
+            profile_start = self.season_start,
+            repeat = True
+        )
+
+        #promotion (non-repeating)
+        self._apply_single_profile(
+            profile_df = self.promo,
+            profile_name = self.promo_name,
+            profile_start = self.promo_start,
+            repeat = False
+        )
+        
+        #lifecycle (non-repeating)
+        self._apply_single_profile(
+            profile_df = self.lifecycle,
+            profile_name = self.lifecycle_name,
+            profile_start = self.lifecycle_start,
+            repeat = False
+        )
+
+    
     def addtolog(self, message):
         #method to add to log
         self.log += message
