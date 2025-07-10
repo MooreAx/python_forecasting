@@ -103,6 +103,9 @@ class Listing:
             elif start_past:
                 self.long_status = "NPD - late launch"
             else:
+                print("spot 1")
+                print(f"no ship = {no_ship}; exit future = {exit_future}; start future = {start_future}; start now = {start_now}; start past = {start_past}")
+
                 raise ValueError(f"Unable to calculate status for {self.part.name}{self.prov}")
 
         elif exit_past:
@@ -119,6 +122,8 @@ class Listing:
             self.long_status = f"Active - {maturity} - {permanency}"
         
         else:
+            print("spot 2")
+            print(f"no ship = {no_ship}; exit future = {exit_future}; start future = {start_future}; start now = {start_now}; start past = {start_past}")
             raise ValueError(f"Unable to calculate status for {self.part.name}{self.prov}")
 
     def calculate_baseline(self):
@@ -288,6 +293,12 @@ class Listing:
             #need to add something here for Active-NPDs
 
         #NPDs
+
+        #there is a bug here -- picking up exit dates that are not there... 102534
+        #what happens when there is a launch push and then we launch.... 
+        #ensure we can have auto lookups for lifecycle, e.g. tweed lifecycle --> tweed SKU, start date = first ship date.
+        #add a turn off feature
+
         if self.short_status == "NPD":
             if self.long_status == "NPD - late launch":
                 if  self.launchpush != "Yes":

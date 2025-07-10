@@ -5,6 +5,7 @@ from datetime import datetime, timedelta
 PUBLISH_DATE = datetime(2025, 6, 20)
 FCSTART = PUBLISH_DATE + timedelta(days=3)
 CURRENTWK = PUBLISH_DATE - timedelta(days=4)
+LASTACTUALS = FCSTART - timedelta(days=7)
 
 #dates
 MINDATE = datetime(2000,1,1)

@@ -19,7 +19,16 @@ df_shipments = (
         sow = lambda x: pd.to_datetime(x['sow']),
         units=lambda x: pd.to_numeric(x['units'], errors='coerce').fillna(0).astype(int)
     )
-    .query("channel == 'REC'")
+)
+
+#kind of cumbersome to pass external variables into query. use boolean indexing:
+df_shipments = df_shipments[
+    (df_shipments["channel"] == "REC") &
+    (df_shipments["sow"] <= LASTACTUALS)
+]
+
+df_shipments = (
+    df_shipments
     .drop(columns=['g_revenue', 'avg_g_price', 'channel'])
     .groupby(['sow', 'part', 'prov'])
     .agg(demand=('units', 'sum'))
